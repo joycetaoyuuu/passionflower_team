@@ -1,0 +1,19 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,126453,2024-07-13,Sweet dreams!,Oregon's Wild Harvest has helped me overcome my insomnia. I love this mixture and I don't take anywhere near the suggested amount.  I take about 5-7 drops half an  hour before bed.  I go right to sleep and go back to sleep easily if I have to get up and visit the bathroom.  No hangover in the morning.  I don't even have to take it every night any more.  Just when I feel wound up.  I trust this company and recommend this supplement. ,"{'neg': 0.026, 'neu': 0.827, 'pos': 0.147, 'compound': 0.8807}",0.8807,pos
+1,1,126453,2024-05-07,My go to valerian blend,"Does as much as any valerian for help with sleep. But this one also seems to calm my back in when the muscles are spasming as long as I get a good full night of sleep. I only take it when needed, not every day. ","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.8248}",0.8248,pos
+2,2,126453,2024-01-25,Nice taste and benefits,This is easy to take at bedtime and helps me sleep soundly. It tastes nice and isn't too intense. ,"{'neg': 0.05, 'neu': 0.612, 'pos': 0.338, 'compound': 0.7951}",0.7951,pos
+3,3,126453,2024-04-24,Great taste,"Seems to work and I like the taste combination of the hops, valerian  and other herbs.","{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}",0.3612,pos
+4,4,126453,2024-03-14,Good taste ,Good quality and good taste. You can see the benefits really rapid. ,"{'neg': 0.0, 'neu': 0.517, 'pos': 0.483, 'compound': 0.8126}",0.8126,pos
+5,5,126453,2024-10-07,I took it for sleep,"30 drops helps you go to sleep.
+The taste is a little strong so swallow it fast","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.6815}",0.6815,pos
+6,6,126453,2024-10-06,Not recomended,"a. The taste is very sweet, while the source of the sweetness is not clear as well as the amount of sugar per serving.
+b. Zero effect.","{'neg': 0.119, 'neu': 0.687, 'pos': 0.194, 'compound': 0.5416}",0.5416,pos
+7,7,126453,2023-10-08,cheap and effective,cheap and effective product and help me live a good life,"{'neg': 0.0, 'neu': 0.446, 'pos': 0.554, 'compound': 0.8271}",0.8271,pos
+8,8,126453,2023-10-07,Good taste and helps sleep,This has a very pleasant taste and helps with sleep. I like the clean organic ingredients and gentle help to get to sleep. ,"{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.9432}",0.9432,pos
+9,9,126453,2023-09-20,,I like the quality but I'm still trying it and so far so good,"{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.8104}",0.8104,pos
+10,10,126453,2023-10-13,Organic glycerite,"Sweet taste because of the glycerin
+Too soon to tell the effect","{'neg': 0.0, 'neu': 0.786, 'pos': 0.214, 'compound': 0.4588}",0.4588,pos
+11,11,126453,2024-10-14,,"Good morning, thank you very much for the fast delivery. We will try. After receiving it, we will add a review ","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.6597}",0.6597,pos
+12,12,126453,2024-05-27,It should be in the medicine cabinet,"There is no doubt about the quality of the brand, because they use each ingredient only after confirming its safety and environmental friendliness. ","{'neg': 0.159, 'neu': 0.644, 'pos': 0.197, 'compound': 0.2732}",0.2732,pos
+13,13,126453,2023-10-03,Very good,"It won't help with severe stress, but in a less serious situation it will calm you down.","{'neg': 0.226, 'neu': 0.548, 'pos': 0.226, 'compound': 0.2506}",0.2506,pos
+14,14,126453,2023-09-15,excellent,"Valerian drops for relaxation. An effective, working and safe product for years now. I highly recommend it to people who have trouble falling asleep","{'neg': 0.128, 'neu': 0.508, 'pos': 0.364, 'compound': 0.8357}",0.8357,pos

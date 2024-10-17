@@ -1,0 +1,132 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,120250,2024-05-30,Works for me.,"Very nice product. Good ingredients.  Convenient size and taste really good. The small issue is that they tend to stick together so I keep bottle upside down to get them out.
+I do not follow suggested dosage, and only take 2, sometimes 4 gummies a day. Enough to get me through stress of everyday life.","{'neg': 0.047, 'neu': 0.793, 'pos': 0.159, 'compound': 0.7684}",0.7684,pos
+1,1,120250,2024-05-16,Stress relief,"This is my first time trying these, and so far I love them. The recommended dose of 3 seem to work well for me to help me relax for sleeping , as well as throughout the day if needed. They taste a bit different than you’d expect a gummy to taste, and a softer texture too, but still enjoyable. I’ll be ordering again!
+","{'neg': 0.0, 'neu': 0.767, 'pos': 0.233, 'compound': 0.9038}",0.9038,pos
+2,2,120250,2024-10-11,I feel it is working ,"I'm feeling very calm, and it tastes delicious. It's a beneficial match.
+, good quality as well, received them in a good condition.Dosage & serving size : 3 gummies, ingredient passionflower , GABA, saffron Vitamin D","{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.9589}",0.9589,pos
+3,3,120250,2024-03-21,Works! I'm a repeat buyer,"For me, this stuff really works. When I'm feeling physical anxiety, jittery, or anticipate I will, I take these and they take the edge off. They don't make me sleepy or groggy, just dial down the anxiety so it's easier to live life. ","{'neg': 0.076, 'neu': 0.823, 'pos': 0.102, 'compound': 0.2911}",0.2911,pos
+4,4,120250,2024-08-11,Helps a bit ,"Helps with mood problems. But it’s not very strong. So maybe to see an effect you need to take it every day. 
+Good quality ingredients, a bit pricey for the size, tastes ok.","{'neg': 0.139, 'neu': 0.656, 'pos': 0.205, 'compound': 0.4062}",0.4062,pos
+5,5,120250,2023-11-03,Good taste,I like that it contains a low amount of GABA,"{'neg': 0.198, 'neu': 0.566, 'pos': 0.236, 'compound': 0.1027}",0.1027,pos
+6,6,120250,2024-06-03,Not sure they do much ,I hate public speaking and got these because I had a few presentations coming up and hoped they would help calm me down so I could present… I tried them a few times before the actual presentation and I don’t feel like they did very much..,"{'neg': 0.077, 'neu': 0.711, 'pos': 0.211, 'compound': 0.6597}",0.6597,pos
+7,7,120250,2023-11-01,OK,"The gummy candies stick to each other in the jar, which is a bit of a hygiene concern. The taste is okay and it contains nutrients such as GABA. I would like them to be in a lightproof packaging. Also, the lid is a bit hard to open.","{'neg': 0.031, 'neu': 0.873, 'pos': 0.096, 'compound': 0.4588}",0.4588,pos
+8,8,120250,2024-10-06,Tastes good,"Smells and tastes great, bought for my dad I hope it helps with his mood. ","{'neg': 0.0, 'neu': 0.534, 'pos': 0.466, 'compound': 0.8625}",0.8625,pos
+9,9,120250,2024-09-15,Like it,"Great taste, ingredients are safe and good for all ages. Love the packaging as well. Will buy it again. ","{'neg': 0.0, 'neu': 0.464, 'pos': 0.536, 'compound': 0.9451}",0.9451,pos
+10,10,120250,2024-07-21,,Good quality .. big size the ingredients are natural .. good benefit ,"{'neg': 0.0, 'neu': 0.415, 'pos': 0.585, 'compound': 0.8834}",0.8834,pos
+11,11,120250,2024-05-29,"Awesome works well and fits in your pocket, highly recoomended","Awesome works well and fits in your pocket, highly recoomended","{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.7351}",0.7351,pos
+12,12,120250,2024-05-23,,Great quality and ingredients. Practical packaging and size. Hope to see benefits soon. ,"{'neg': 0.0, 'neu': 0.51, 'pos': 0.49, 'compound': 0.8625}",0.8625,pos
+13,13,120250,2024-05-01,,An excellent product with an excellent effect of the Bach flowers on the nervous system. Delicious,"{'neg': 0.083, 'neu': 0.476, 'pos': 0.44, 'compound': 0.875}",0.875,pos
+14,14,120250,2024-04-03,Good,Makes me sleep very fast the ingredients are clean and the size is good ordering again,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.6808}",0.6808,pos
+15,15,120250,2024-03-08,Amazing ,"Highly recommended! Good quality ingredients, nice packaging , effective ! Small capsules easy to ingest ","{'neg': 0.0, 'neu': 0.353, 'pos': 0.647, 'compound': 0.9281}",0.9281,pos
+16,16,120250,2024-01-17,,it is tasty and very helpful.i am glad I found it.  ,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.5046}",0.5046,pos
+17,17,120250,2023-11-24,,It's a good complex with pleasant taste. It helps me to cope with day to day stress,"{'neg': 0.119, 'neu': 0.508, 'pos': 0.373, 'compound': 0.7184}",0.7184,pos
+18,18,120250,2023-11-14,Taste good,the size of the bottle also good and ingredient natural ,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.6597}",0.6597,pos
+19,19,120250,2023-11-05,Excellent ,Very recommend large size tastes ok does the job good quality ,"{'neg': 0.0, 'neu': 0.503, 'pos': 0.497, 'compound': 0.7841}",0.7841,pos
+20,20,120250,2024-09-03,Mood,It is an acquired taste. Later i get the hang of it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+21,21,120250,2023-12-12,"Good, but expensive","Good ingredients, there is an effect, but one pack only lasts for 10 days and is quite an expensive product.","{'neg': 0.0, 'neu': 0.907, 'pos': 0.093, 'compound': 0.2382}",0.2382,pos
+22,22,120250,2023-11-20,Добре,"The taste is awful, I don't know because of which ingredient. Other than that I think it is of good quality. ","{'neg': 0.131, 'neu': 0.742, 'pos': 0.127, 'compound': -0.0258}",-0.0258,neu
+23,23,120250,2024-06-15,Gummies taste bad and they are sticky,"These gummies taste bad and stick to my teeth, it takes an effort to get them out (unlike gummies I tried from other brands). I am not going to finish these..","{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.5423}",-0.5423,neg
+24,24,120250,2024-02-05,sour taste,Natural ingredients. Good quality. Size of gummy acceptable. If you like sour food/supplement consider it. ,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.8481}",0.8481,pos
+25,25,120250,2023-11-22,Just ok,"Don't really help much with my stress.  Taste us good, easy to chew.","{'neg': 0.263, 'neu': 0.448, 'pos': 0.289, 'compound': 0.1344}",0.1344,pos
+26,26,120250,2023-10-05,Best,"Great product, best quality and size, best ingredientes, md recomended and love it","{'neg': 0.0, 'neu': 0.35, 'pos': 0.65, 'compound': 0.9565}",0.9565,pos
+27,27,120250,2023-09-28,Прекрасно!,"A good additive, excellent packaging, as well as a nice price, I recommend buying!)","{'neg': 0.0, 'neu': 0.296, 'pos': 0.704, 'compound': 0.923}",0.923,pos
+28,28,120250,2024-04-17,,I been taking it for two weeks and so far I have not seen any difference. ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+29,29,120250,2024-04-14,inedible. very bad taste.,"This product has such a terrible taste that after just putting it in my mouth, I quickly spat it out","{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.4767}",-0.4767,neg
+30,30,120250,2023-10-16,Somewhat good product,"The taste is great, and the quality of the supplement is as always excellent. I am not so sure about the effect though,i think you need to take more than one at the same time.","{'neg': 0.06, 'neu': 0.751, 'pos': 0.189, 'compound': 0.7451}",0.7451,pos
+31,31,120250,2023-10-14,Great ingredients…,"The overwhelming taste of saffron misses the mark for me, hence only four stars. ","{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}",-0.2263,neg
+32,32,120250,2023-11-08,Prominent,"To be honest, I am my only source of livelihood, iHerb. I collect orders and benefit from your likes. May God make you happy. Give me a like so I can earn. May God grant you halal money. Help me with my source of livelihood. May God grant you heaven 😚🥹","{'neg': 0.0, 'neu': 0.477, 'pos': 0.523, 'compound': 0.9851}",0.9851,pos
+33,33,120250,2024-09-14,,"I have had insomnia for a long time, this product has helped me sleep without hurting my stomach. It is of excellent quality, its ingredients are natural, although the size could be smaller, and the dosage is just one pill. Other than that, I loved it for the benefits of being able to sleep. It has no flavor, so that doesn't bother me. ","{'neg': 0.03, 'neu': 0.731, 'pos': 0.238, 'compound': 0.9332}",0.9332,pos
+34,34,120250,2024-08-30,I think it helps reduce stress,"I bought this to help me get through a stressful workplace. First, it tastes like tokoroten, then orange. It has a unique taste, but I enjoy it. It also has the effect of relaxing me when I'm feeling palpitations due to stress, making me feel relieved. I think the key is to chew it slowly and a lot.","{'neg': 0.087, 'neu': 0.655, 'pos': 0.258, 'compound': 0.8885}",0.8885,pos
+35,35,120250,2024-07-15,Advised,"I already knew rescues but not in this formula. Taken following a traumatic event, they helped me reduce anxiety and resume my daily life with normality. I took them in combination with the ""sleep"" night ones. I am very satisfied and I highly recommend them in stressful or post-trauma situations.
+","{'neg': 0.192, 'neu': 0.65, 'pos': 0.158, 'compound': -0.4715}",-0.4715,neg
+36,36,120250,2024-04-14,Great,"My favorite brand of stress relief supplements. I’ve already tried drops, lozenges and chewable tablets. I sometimes take it at night or during severe stress during the day, I give it to a 12-year-old child when he is overexcited and sometimes before bed. I notice the result immediately. Chewable tablets are round gelatins, like candy. Pleasant to the taste and soft","{'neg': 0.117, 'neu': 0.713, 'pos': 0.17, 'compound': 0.5719}",0.5719,pos
+37,37,120250,2024-02-26,,"It has a unique flavor, and to be honest, it's not very tasty, but when you feel vague anxiety, if you take it slowly and let it melt in your mouth, it will calm you down. In addition to Rescue Remedy, you can also take GABA and saffron, but since it contains vitamin D, you may need to be careful not to overlap with other multivitamins or take too much.","{'neg': 0.046, 'neu': 0.776, 'pos': 0.178, 'compound': 0.891}",0.891,pos
+38,38,120250,2024-02-22,,"Rescue Brand From the Makers of Bach® Rescue® Passionflower, GABA, Saffron, Vitamin D Supports the body's stress response and promotes a sense of calm Dietary Supplement Contains other natural flavors 5 floral senses Vegan Non-addictive Saffron helps manage stress in everyday life and promotes sense calmness and serenity. GABA and traditional passionflower for relaxation. Vitamin D, the sunshine vitamin. Without gelatin, artificial flavors and sweeteners, synthetic colors.
+
+","{'neg': 0.063, 'neu': 0.527, 'pos': 0.41, 'compound': 0.9774}",0.9774,pos
+39,39,120250,2024-09-10,Rescue plus,"The ingredients are natural and of good quality, and are good for rejuvenating the spirit. As a general dietary supplement, it is helpful for relieving occasional stress, and it tastes good.","{'neg': 0.065, 'neu': 0.512, 'pos': 0.423, 'compound': 0.9246}",0.9246,pos
+40,40,120250,2024-07-03,gummies,"I recently tried the Bach Rescue Plus Mood & Stress Support Gummies in Orange, and I am very pleased with the results. These gummies have a pleasant taste and are easy to incorporate into a daily routine. I noticed an improvement in my mood and a reduction in stress after a few days of use.","{'neg': 0.089, 'neu': 0.619, 'pos': 0.292, 'compound': 0.9152}",0.9152,pos
+41,41,120250,2024-02-05,Excellent!,"It helps overcome stressful situations very well, calms anxiety, and does not affect the ability to drive a car. The taste is not very sweet, which is very good, you need to take 2 tablets a day","{'neg': 0.213, 'neu': 0.557, 'pos': 0.231, 'compound': 0.2124}",0.2124,pos
+42,42,120250,2024-08-27,Excellent!,I took it to improve my mood and it was very good. The best thing is that it is sweet instead of taking a lot of pills. You can take it at any time and it tastes good too.,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.9497}",0.9497,pos
+43,43,120250,2024-07-20,Wonderful,This is my first time using this company. Satisfied. I take 3 candies a day. I have enough. The taste is normal. I'll take more. ,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.4215}",0.4215,pos
+44,44,120250,2024-05-19,good,"When I feel anxious about going out, I eat one. The size and ingredients are reassuring, so the quality is high. The best thing about it is that it tastes good.","{'neg': 0.054, 'neu': 0.679, 'pos': 0.266, 'compound': 0.8316}",0.8316,pos
+45,45,120250,2024-05-13,Good and efficient!,"I'm a fan of Bach flower remedies and I use them daily. I didn't have this combination and I was pleasantly surprised by it. I like the taste, consistency, smell and the well-being I feel after using them. I recommend!","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.8908}",0.8908,pos
+46,46,120250,2024-05-12,Eat three when you’re stressed,"Chew three in the morning and evening. I heard that saffron can help control emotions. The effect is not very sure, but the chewing process brings about a stress-releasing effect and the taste is good.","{'neg': 0.043, 'neu': 0.805, 'pos': 0.153, 'compound': 0.6262}",0.6262,pos
+47,47,120250,2024-02-25,,A supplement designed to induce calmness. I previously bought this supplement in the form of candy and not gum. The effect of the products is similar to a matter of personal preference for gum or candy,"{'neg': 0.0, 'neu': 0.891, 'pos': 0.109, 'compound': 0.4215}",0.4215,pos
+48,48,120250,2024-01-05,"Natural, effective, no side effects","I advocate naturalness and believe that natural products can also be of great benefit to the body. This supplement is natural, effective and has no side effects.","{'neg': 0.059, 'neu': 0.535, 'pos': 0.406, 'compound': 0.9186}",0.9186,pos
+49,49,120250,2023-12-12,idea,This company is all a fantasy. I'm addicted to it. Even their sleeping pills dissolve under the tongue. Don't miss it. It's crazy. The important thing is that the product tastes delicious and the effectiveness is good. I will definitely buy it again.,"{'neg': 0.048, 'neu': 0.701, 'pos': 0.251, 'compound': 0.846}",0.846,pos
+50,50,120250,2024-08-14,"""sedative pills""",I bought in the form of rubber fences. I always have Rescio's spray which really helps in stressful situations. Not a hit taste but small balls,"{'neg': 0.09, 'neu': 0.832, 'pos': 0.077, 'compound': -0.0863}",-0.0863,neg
+51,51,120250,2024-07-30,Natural sedative,"It is a good mild sedative, but for those who are accustomed to chemical medications, it will not provide significant results","{'neg': 0.086, 'neu': 0.824, 'pos': 0.089, 'compound': 0.016}",0.016,neu
+52,52,120250,2023-12-18,,Good quality.. Large size and convenient to use. Advantages that it is relaxing.. Delicious taste,"{'neg': 0.0, 'neu': 0.569, 'pos': 0.431, 'compound': 0.8442}",0.8442,pos
+53,53,120250,2023-12-13,Good product,"Very good quality, and they really work. Perfect for anxiety crises. The only bad thing is that it has sugar","{'neg': 0.183, 'neu': 0.564, 'pos': 0.253, 'compound': 0.4536}",0.4536,pos
+54,54,120250,2024-07-02,Unusual taste,"It tastes like the sauce that comes with tokoroten? It tastes similar to ponzu sauce. I think Rescue Remedy is better for me, but this one has a lot of ingredients so I bought it to try it out.","{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.5927}",0.5927,pos
+55,55,120250,2024-10-15,,"Very good, the mood improves quickly, and the saffron taste is clear and delicious.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","{'neg': 0.0, 'neu': 0.449, 'pos': 0.551, 'compound': 0.9061}",0.9061,pos
+56,56,120250,2024-09-19,,Eating Kai is helpful for improving your mood and will make you relax a lot,"{'neg': 0.0, 'neu': 0.564, 'pos': 0.436, 'compound': 0.8176}",0.8176,pos
+57,57,120250,2024-09-07,Helps cope with stress. ,"It really lifts your mood and relieves stress. It works quite quickly, convenient form of administration. The gummies taste very nice. ","{'neg': 0.106, 'neu': 0.682, 'pos': 0.212, 'compound': 0.4201}",0.4201,pos
+58,58,120250,2024-09-05,Mumtaz,I really liked it. It is delicious and I like it. I highly recommend it. Quality ingredient size dosage benefit taste  ,"{'neg': 0.0, 'neu': 0.463, 'pos': 0.537, 'compound': 0.9335}",0.9335,pos
+59,59,120250,2024-08-20,amazing,Taste Package Benefit Mood Sleep Price Quantity Stress Price Serotonin Mind Quantity Competitor Sweet ,"{'neg': 0.141, 'neu': 0.556, 'pos': 0.303, 'compound': 0.4939}",0.4939,pos
+60,60,120250,2024-08-19,"Bach, Rescue Plus, Mood & Stress Help, Orange Flavor, 60 Vegan Gummies","Bach, Rescue Plus, Mood and Stress Help, Orange, 60 Vegan Gummies Bach, Rescue Plus, Mood and Stress Help, Orange, 60 Vegan Gummies","{'neg': 0.167, 'neu': 0.476, 'pos': 0.357, 'compound': 0.7506}",0.7506,pos
+61,61,120250,2024-07-26,Hope it works,"Judging from the ingredients, it should be fine. I hope it won’t taste too sweet.","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.7717}",0.7717,pos
+62,62,120250,2024-07-21,top,"my favorite brand, natural and effective products without side effects. in addition, in candy it is simpler and more pleasant to consume. very effective ","{'neg': 0.0, 'neu': 0.554, 'pos': 0.446, 'compound': 0.9359}",0.9359,pos
+63,63,120250,2024-07-21,A must-have product,I put one in my mouth when I feel anxious or restless. I take about two a day. It seems to be working.,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.4767}",-0.4767,neg
+64,64,120250,2024-07-18,,"Clinically Proven Absorption Rainbow Superfood Blend & Probiotics Supports Immune & Bone & Brain Health Non GMO Project Verified Certified RAW Certified CLEAN Vegetarian Gluten Free
+
+","{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.8868}",0.8868,pos
+65,65,120250,2024-07-01,,Excellent stress reliever. Pleasant to the taste. Convenient dosage. High-quality composition. Suitable for any age. Great benefit under great stress. I recommend!,"{'neg': 0.136, 'neu': 0.292, 'pos': 0.572, 'compound': 0.9577}",0.9577,pos
+66,66,120250,2024-06-22,,Gelatin to relieve stress. The taste of orange has a bitter sourness that helps relieve stress. Its size is suitable,"{'neg': 0.29, 'neu': 0.448, 'pos': 0.262, 'compound': -0.2023}",-0.2023,neg
+67,67,120250,2024-06-02,,"First of all, this candy tastes very good. I think it is a psychological effect and it is better.","{'neg': 0.0, 'neu': 0.711, 'pos': 0.289, 'compound': 0.7264}",0.7264,pos
+68,68,120250,2024-05-06,great,It's easy to eat and I think it's good to eat when I'm stressed. The size is also convenient to eat. ,"{'neg': 0.095, 'neu': 0.675, 'pos': 0.23, 'compound': 0.5267}",0.5267,pos
+69,69,120250,2024-05-02,Relieves stress and improves your mood!,An excellent combination of homeopathy (relieves stress) and nutraceuticals in a homeopathic dose. Everything works great instead - a good mood for the whole day!,"{'neg': 0.0, 'neu': 0.634, 'pos': 0.366, 'compound': 0.8999}",0.8999,pos
+70,70,120250,2023-11-04,A very wonderful drug!,An excellent drug for normalizing your condition. Suitable for any age! Tastes good! Excellent quality and very good composition!,"{'neg': 0.0, 'neu': 0.516, 'pos': 0.484, 'compound': 0.9334}",0.9334,pos
+71,71,120250,2024-09-22,,"It tastes very delicious. I'm not sure how effective it is, but why not try it?","{'neg': 0.174, 'neu': 0.693, 'pos': 0.133, 'compound': 0.0615}",0.0615,pos
+72,72,120250,2024-03-03,relaxing,A drug designed to calm and relieve stress. there is influence. It's nice that it's in candy,"{'neg': 0.125, 'neu': 0.536, 'pos': 0.339, 'compound': 0.5859}",0.5859,pos
+73,73,120250,2024-04-08,good,I use it when my children and I are feeling emotional. I think it works.,"{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.2732}",0.2732,pos
+74,74,120250,2023-11-01,Favorite brand,"High quality, natural ingredients, pleasant taste. Helps recharge your energy in the morning.","{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.8591}",0.8591,pos
+75,75,120250,2023-08-31,,Relaxing product par excellence with a subtle flavor and its gummy is easy to chew,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.8807}",0.8807,pos
+76,76,120250,2023-12-24,,"Acceptable taste, easy use. No trace was noticed. Good quality. Good package size","{'neg': 0.104, 'neu': 0.377, 'pos': 0.519, 'compound': 0.8316}",0.8316,pos
+77,77,120250,2023-11-28,impulse,Impulse Purchase Box Batch Flower Curiosity,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+78,78,120250,2023-09-23,,Quality goods. Suitable for any age. Convenient use according to instructions.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+79,79,120250,2023-08-27,,"Excellent chewable tablets for calming, have an orange taste and smell","{'neg': 0.0, 'neu': 0.584, 'pos': 0.416, 'compound': 0.7506}",0.7506,pos
+80,80,120250,2024-09-16,Not satisfied,"It tastes bad, no feel at all no effect will not buy again","{'neg': 0.441, 'neu': 0.559, 'pos': 0.0, 'compound': -0.7845}",-0.7845,neg
+81,81,120250,2023-12-12,The scent is not good,I'm somehow eating one at a time.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu

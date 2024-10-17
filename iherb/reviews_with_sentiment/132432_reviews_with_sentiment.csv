@@ -1,0 +1,7 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,132432,2024-01-11,5 star to olly products,This one is new in olly .. i was used to take olly goodbye stress support to calm and sleep easy. İt is included gaba etc. And this one is all herbs and natural quality ingredients. Like it. Good benefits. ,"{'neg': 0.054, 'neu': 0.594, 'pos': 0.352, 'compound': 0.9274}",0.9274,pos
+1,1,132432,2024-08-25,Works for me,This is even faster acting than the gummies - 10mins it takes for me to fall asleep. Handy size for travel,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+2,2,132432,2024-04-05,hmm not sure,Not sure if as effective as melatonin but if useful if you wanted to try a herbal rather than pharma product,"{'neg': 0.061, 'neu': 0.697, 'pos': 0.242, 'compound': 0.6618}",0.6618,pos
+3,3,132432,2024-03-18,Bad. I Don't Feel Like It Does Anything. ,"I have always wanted to try Olly™ multivitamins. Thus, I was so happy when IHERB™ finally made it available. So, I ordered a couple of Olly™ vitamins. And, ""Rest"" was one of them. I really didn't like the results. I didn't feel like it did anything, to relax me or make me feel sleepy. Therefore. I don't recommend it.
+","{'neg': 0.112, 'neu': 0.764, 'pos': 0.124, 'compound': 0.4127}",0.4127,pos
+4,4,132432,2024-01-28,Got destressed,a quite strong smell of chamomile but smoothly released. good quality ,"{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.7308}",0.7308,pos

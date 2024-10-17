@@ -1,0 +1,5 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,141146,2024-06-20,Exciting to use this ,Let’s see it’s summer time and we need a really hydration product for the face. I like the packaging they sent this spray in a separate bag to avoid any mess in the box ,"{'neg': 0.134, 'neu': 0.795, 'pos': 0.071, 'compound': -0.296}",-0.296,neg
+1,1,141146,2024-08-14,,"Great love the smell and the feeling it gives 
+Refreshing ","{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.8689}",0.8689,pos
+2,2,141146,2024-07-25,,"like this scent,used just once,it works.good composition of ingredients ","{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}",0.3612,pos
