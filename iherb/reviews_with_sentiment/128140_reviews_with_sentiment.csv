@@ -1,0 +1,3 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,128140,2024-10-09,very good,"extremely nice combination for good sleep, camomile , lemon balm, GABA, highly recommend ","{'neg': 0.0, 'neu': 0.506, 'pos': 0.494, 'compound': 0.831}",0.831,pos
+1,1,128140,2024-05-15,Good supplement,Good supplement for better protein absorption Reliable manufacturer Budget price High-quality composition,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.7003}",0.7003,pos

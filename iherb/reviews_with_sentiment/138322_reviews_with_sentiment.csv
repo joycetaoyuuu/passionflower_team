@@ -1,0 +1,20 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,138322,2024-09-22,Fantastic,"The shipping was incredibly fast, and the overall value for the price is excellent. The product itself is of high quality and matches the description provided on the website perfectly. I am very pleased with both the quick delivery and the accuracy of the product listing, making it a reliable purchase experience.","{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.9259}",0.9259,pos
+1,1,138322,2024-07-14,Quality over everything!,"Mary ruth organic calming kava might be your bestfriend!
+it's like giving your brain a  little tune up every day!
+ I started giving my daughter and for the first time she is calm, I cant wait to see amazing things this drug does for her, as we just started, heard of lot of beautiful review, I know mine would be the best ever!","{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.9752}",0.9752,pos
+2,2,138322,2024-05-11,Works wonders,Advised by my doctor to use in conjunction with skullcap and passionflower for vagus nerve test  and sympathetic nervous system. Works great!!,"{'neg': 0.071, 'neu': 0.613, 'pos': 0.316, 'compound': 0.8011}",0.8011,pos
+3,3,138322,2024-04-18,Relaxation,You'll have to do your research on this herb. I hear it is a powerful one for stress reduction. ,"{'neg': 0.136, 'neu': 0.728, 'pos': 0.136, 'compound': 0.0}",0.0,neu
+4,4,138322,2024-09-18,Nah!,"Not so much for me.  I’m looking for something to replace L-theanine, as I seem to be a non responder.  ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+5,5,138322,2024-08-31,Calming kava,"I put 5 drops in water for my little one, not really seen a difference but will see within a month or so..","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+6,6,138322,2024-08-09,Sleep soundly,"I use it when I'm stressed out and I can't sleep. The moment I drink it, my mind relaxes a little, and when I get in bed, I can sleep like usual.","{'neg': 0.079, 'neu': 0.757, 'pos': 0.164, 'compound': 0.3818}",0.3818,pos
+7,7,138322,2024-05-19,,"Plant extracts that promote relaxation. Eliminate stress and frustration. Kava is obtained from the rhizomes and roots of the capsicum plant, which is native to the islands of Vanuatu in the South Pacific. ","{'neg': 0.144, 'neu': 0.709, 'pos': 0.147, 'compound': 0.0258}",0.0258,neu
+8,8,138322,2024-09-25,It's not tasty though,"It's a mix of various herbs, sweet and bitter, and although it's not tasty, I felt the most important relaxation effect, so I give it 5 stars.","{'neg': 0.092, 'neu': 0.621, 'pos': 0.287, 'compound': 0.7159}",0.7159,pos
+9,9,138322,2024-07-13,Strong,"I had never tried tonics, only with allopathic medicine and I was surprised, if you feel the effect quickly, you have to be careful with this product","{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.3612}",0.3612,pos
+10,10,138322,2024-07-30,Jordan ,"The quality is excellent, and the quantity and ingredients in the package are beneficial for the skin and hair ","{'neg': 0.0, 'neu': 0.72, 'pos': 0.28, 'compound': 0.765}",0.765,pos
+11,11,138322,2024-10-15,Okay ,A good manufacturer that is generally known for high quality and reliability,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}",0.4404,pos
+12,12,138322,2024-09-03,,"I love this brand, the price, the quality, everything is super ","{'neg': 0.0, 'neu': 0.497, 'pos': 0.503, 'compound': 0.8442}",0.8442,pos
+13,13,138322,2024-07-23,,"To help promote a feeling of calm and relaxation, this blend of 8 herbs may help ","{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.9217}",0.9217,pos
+14,14,138322,2024-06-12,,"liquid form, the product quality is excellent, the products are tested for the absence of pesticides, microbes and heavy metals, the composition is good.
+","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.765}",0.765,pos
+15,15,138322,2024-06-15,,"great quality, good dose, I felt benefits on the first day. size ok","{'neg': 0.0, 'neu': 0.404, 'pos': 0.596, 'compound': 0.8957}",0.8957,pos

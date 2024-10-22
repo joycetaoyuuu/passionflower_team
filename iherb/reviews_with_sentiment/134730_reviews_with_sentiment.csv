@@ -1,0 +1,7 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,134730,2024-07-24,,"Nice flavors to use it for iced tea! 
+You can actually taste the raspberry but is not very artificial like other ones, so the ingredient is pretty good.
+I think that the quality and the size it's fine for a month if you like to have one bag every day. ","{'neg': 0.098, 'neu': 0.694, 'pos': 0.207, 'compound': 0.7646}",0.7646,pos
+1,1,134730,2024-06-03,Yummy ,This tea smells and tastes really good.  The ingredients are great.,"{'neg': 0.0, 'neu': 0.552, 'pos': 0.448, 'compound': 0.807}",0.807,pos
+2,2,134730,2024-06-19,Cool tea,"The tea is very tasty! I don’t know the result, since it’s impossible to determine😅 I don’t like vanilla, but everything in the tea is so soft that I enjoyed every bag, the collection inside is high-quality, leaf to leaf, convenient zip packaging, but just drinking, of course, is a little expensive ","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.7838}",0.7838,pos
+3,3,134730,2024-08-17,,Good smell and taste. For fertility I don't see the result yet ,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}",0.4404,pos

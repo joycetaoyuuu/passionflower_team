@@ -1,0 +1,3 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,136325,2024-03-17,Delivers as promised.,"Having a bit of extra stress in my life and a friend recommended this product. It arrived at the perfect time and I'd have to say that I do feel more relaxed. Who knows if it is really working or not, placebo...but if it works it works. ","{'neg': 0.052, 'neu': 0.722, 'pos': 0.226, 'compound': 0.8553}",0.8553,pos
+1,1,136325,2024-05-31,It makes me feel calm.,I take it before going to bed at night. I feel calmer and sleep better. I feel better during the day. I'd like to take it when I'm busy.,"{'neg': 0.0, 'neu': 0.671, 'pos': 0.329, 'compound': 0.8689}",0.8689,pos

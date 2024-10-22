@@ -1,0 +1,2 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,144348,2024-09-25,Menopautonic ,Fantastic company! This product has been helping me for years with perimenopausal symptoms ,"{'neg': 0.0, 'neu': 0.644, 'pos': 0.356, 'compound': 0.7263}",0.7263,pos

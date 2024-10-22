@@ -1,0 +1,20 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,132873,2024-02-24,I love this product!!!!,"I stopped taking this for a few weeks and now that I’m taking it again my sleep quality is SO much better, I sleep throughout the night and I wake up feeling not groggy at all. And my mood has been consistently uplifted and I do feel less stressed out. It tastes minty, it’s pleasant. I love this product SO MUCH but I wish it wasn’t so expensive. You get enough for one month with the dosage. The size of the capsules aren’t too big. The ingredients are completely natural and have a plethora of health benefits. I will not stop buying this. ","{'neg': 0.027, 'neu': 0.765, 'pos': 0.208, 'compound': 0.9628}",0.9628,pos
+1,1,132873,2024-04-02,Helps with sleeping,The quality of this product is great but I have to say it does take some time for it to really help with your sleep. It gives the felling of fullness. I don’t know much about the ingredients but what I do know is that it has a minty taste. ,"{'neg': 0.0, 'neu': 0.871, 'pos': 0.129, 'compound': 0.7607}",0.7607,pos
+2,2,132873,2023-11-29,Natural spleeping pill,"It acts like a natural sleeping pill on me.
+I recovered from severe insomnia thanks to this pill.
+If this comment is useful for you feel free to like it. 
+I wish you a vibrant health !
+Thank you. ","{'neg': 0.05, 'neu': 0.461, 'pos': 0.489, 'compound': 0.9678}",0.9678,pos
+3,3,132873,2024-05-04,amazing!,makes me fall asleep faster and feel so much more well rested when i wake up as someone who always used to feel tired no matter how much i slept ,"{'neg': 0.155, 'neu': 0.73, 'pos': 0.114, 'compound': -0.3277}",-0.3277,neg
+4,4,132873,2024-02-01,Sleep ,"Great supplement, my sleep has improved thanks to this product.  My anxiety has decreased.  I will continue purchasing it.  I am so happy I found this supplement.   ","{'neg': 0.048, 'neu': 0.535, 'pos': 0.418, 'compound': 0.9342}",0.9342,pos
+5,5,132873,2024-09-23,Good sleep aid ,Love these to help relax for sleep. Good ingredients. On the more expensive side but really good quality ,"{'neg': 0.0, 'neu': 0.507, 'pos': 0.493, 'compound': 0.8919}",0.8919,pos
+6,6,132873,2024-07-14,ZZZ,"Tried most of sleep remedy.
+This one gives restful sleep most of time.
+I like the ingredients of this Ora.","{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.6444}",0.6444,pos
+7,7,132873,2024-01-08,REALLY WORKS!,I've tried literally everything to help me sleep. And amazingly this actually works,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}",0.4019,pos
+8,8,132873,2024-09-22,,"Normal scent, daily use, high quality, moisturizing the skin, repeat for sure again ","{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}",0.3182,pos
+9,9,132873,2024-07-21,,I didn't think its quality was good at all and the price was excessive. ,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,pos
+10,10,132873,2024-09-21,,I expect it to be effective in improving insomnia.,"{'neg': 0.0, 'neu': 0.504, 'pos': 0.496, 'compound': 0.7096}",0.7096,pos
+11,11,132873,2024-08-16,great,I bought it for my parents. They like it.,"{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}",0.3612,pos
+12,12,132873,2024-01-12,efficacy,"The product is made with good ingredients, but it has absolutely no effect on me.","{'neg': 0.178, 'neu': 0.715, 'pos': 0.107, 'compound': -0.3159}",-0.3159,neg

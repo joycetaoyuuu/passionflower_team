@@ -1,0 +1,2 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,132439,2024-08-18,The best jelly beans ,The best jelly for a good night's sleep. Super handy packaging that you can take with you on a trip. Tasty and effective. They will let you sleep through the night without tossing and turning! Great product at a great price. Lasts 2 months and is not addictive and makes you wake up rested. I recommend it to everyone... Does not cause you to wake up at night ,"{'neg': 0.0, 'neu': 0.691, 'pos': 0.309, 'compound': 0.9778}",0.9778,pos

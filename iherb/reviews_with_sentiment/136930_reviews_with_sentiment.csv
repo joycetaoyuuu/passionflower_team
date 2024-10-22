@@ -1,0 +1,2 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,136930,2024-06-12,,"smells divine, like luxury spa, scent indeed is relaxing. the consistency is just light, making it easy to absorb, I would say just moisturizing enough, not very hydrating. Enough when you live in humid weather but need to turn on air con kind of condition. Also, the bottle is glass, so I believe thr quality should be good.","{'neg': 0.0, 'neu': 0.81, 'pos': 0.19, 'compound': 0.8735}",0.8735,pos

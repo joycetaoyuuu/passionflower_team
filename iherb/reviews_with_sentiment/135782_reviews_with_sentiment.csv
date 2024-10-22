@@ -1,0 +1,22 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,135782,2024-04-14,👍,"Just trying out as my daughter struggled regulating her mood day to day basis. Haven’t taken long enough so it is a bit early stage to really know if it does the job. But seems really good! She likes the taste! 
+I will continue giving to her. Hope it makes sense!","{'neg': 0.027, 'neu': 0.711, 'pos': 0.262, 'compound': 0.9478}",0.9478,pos
+1,1,135782,2024-09-30,Would recommend ,My son takes these everyday before school and the quality is fantastic and he has an easier time focusing on class. They also taste great he says. ,"{'neg': 0.0, 'neu': 0.696, 'pos': 0.304, 'compound': 0.8885}",0.8885,pos
+2,2,135782,2024-10-11,Otimo !,My kids love it ! Tastes good and I can see some positive effects.,"{'neg': 0.0, 'neu': 0.45, 'pos': 0.55, 'compound': 0.8999}",0.8999,pos
+3,3,135782,2024-06-12,,Good quality product. Fast delivery. Size Easy to chew. Ingredients Good benefits. Dosage just nice. Taste good ,"{'neg': 0.0, 'neu': 0.393, 'pos': 0.607, 'compound': 0.9432}",0.9432,pos
+4,4,135782,2024-06-06,great product,"good quality and ingredient
+good size for childeren
+we really love the.. to bad they dont sell it in a bag 120gummies","{'neg': 0.114, 'neu': 0.552, 'pos': 0.334, 'compound': 0.7778}",0.7778,pos
+5,5,135782,2024-06-01,Yum,"They taste yummy, a natural berry flavour.  My son takes 2 each morning and he says they seem to help him feel calmer. ","{'neg': 0.0, 'neu': 0.605, 'pos': 0.395, 'compound': 0.8779}",0.8779,pos
+6,6,135782,2024-05-09,,"Quality: good 
+Size: good 
+Skin : glow skin
+Hair : good 
+Nail: strong nail
+Package: good 
+Benefit: glow skin, strong nail 
+Taste: good 
+Ingredient: saffron 
+","{'neg': 0.0, 'neu': 0.384, 'pos': 0.616, 'compound': 0.9723}",0.9723,pos
+7,7,135782,2024-06-23,For gifted children. Great!,Contains most of the necessary ingredients! One tablet for my child in the morning. He likes it. Good value for money and taste! I bought it in bulk. I will definitely buy it again!,"{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.8928}",0.8928,pos
+8,8,135782,2024-09-16,,"Excellent quality, reasonable price, easy to swallow and light on the stomach, acceptable taste ","{'neg': 0.0, 'neu': 0.553, 'pos': 0.447, 'compound': 0.836}",0.836,pos

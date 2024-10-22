@@ -1,0 +1,17 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,130543,2024-08-11,,"Nourishing medicinal mushroom and proprietary blend of botanicals, essential fatty acids and amino acids to support healthy neurological function.
+
+Nervous system health and function.
+Supports healthy cognition and mood.
+Antioxidant and anti-inflammatory support.
+Highly nutritious functional food.","{'neg': 0.045, 'neu': 0.668, 'pos': 0.287, 'compound': 0.8807}",0.8807,pos
+1,1,130543,2024-07-17,Good item,"Good quality ingredients benefit package immunity mushroom superfood give energy taste is longevity and good for detox 
+normal size satisfied","{'neg': 0.0, 'neu': 0.523, 'pos': 0.477, 'compound': 0.9136}",0.9136,pos
+2,2,130543,2024-05-13,,definitely worth buying you will see the results in a couple of weeks ,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.5574}",0.5574,pos
+3,3,130543,2024-01-18,Fast delivery!,"Hope it will help with immunity, improve my energy level and nerve health.","{'neg': 0.0, 'neu': 0.459, 'pos': 0.541, 'compound': 0.8625}",0.8625,pos
+4,4,130543,2024-06-13,,I got neuropathy and was recommended from friends that this this product helps.   This is my first order and try.,"{'neg': 0.0, 'neu': 0.681, 'pos': 0.319, 'compound': 0.7579}",0.7579,pos
+5,5,130543,2024-02-05,yet to try,"yet to try,hope i can update after tring this.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+6,6,130543,2024-07-14,Fast shipping,"The package arrived earlier than expected, it is the first time I have bought it so we will try to see how it goes. the size is just like the image","{'neg': 0.0, 'neu': 0.921, 'pos': 0.079, 'compound': 0.3612}",0.3612,pos
+7,7,130543,2024-02-04,project,The immunity benefit of a superfood with quality ingredients gives energy and eliminates toxins. A good taste. The quantity of mushrooms in the package includes everything,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.7906}",0.7906,pos
+8,8,130543,2024-08-26,Mumtaz,Quality Ingredients Quantity Mushrooms Package Benefit Immunity Detoxification Shelf Life Taste Excellent,"{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.7717}",0.7717,pos
+9,9,130543,2024-04-09,Great,For those who are worried about this drug while the nervous system,"{'neg': 0.301, 'neu': 0.699, 'pos': 0.0, 'compound': -0.5106}",-0.5106,neg

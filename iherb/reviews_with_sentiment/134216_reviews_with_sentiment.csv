@@ -1,0 +1,14 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,134216,2024-02-17,It really works!!,I've been taking Relaxium Sleep for a few years and wouldn't go without it. It not only helps with my quality of sleep but also helps with my energy and mood. Highly recommend!! I also like the fact that it has all natural ingredients and non habit forming. ,"{'neg': 0.075, 'neu': 0.687, 'pos': 0.237, 'compound': 0.8873}",0.8873,pos
+1,1,134216,2024-03-30,Sleep supplement ,My husband uses these to help relax and sleep but not every day. He breaks them open and puts in applesauce because he doesn’t like to swallow pills.  He says sometimes they upset his stomach. He has tried a couple other brands and all about the same. Ok but not 5 stars. ,"{'neg': 0.058, 'neu': 0.773, 'pos': 0.169, 'compound': 0.6652}",0.6652,pos
+2,2,134216,2024-05-16,Sleep Aid,"Not a real fan of this product,
+but it does include a fair variety of ingredients.
+Ouch, could do without the magnesium stearate though.
+Do not buy the cloned counterfeit on the market that does not show the UPC 857431003397.","{'neg': 0.037, 'neu': 0.89, 'pos': 0.073, 'compound': 0.3546}",0.3546,pos
+3,3,134216,2024-09-30,Relaxium Sleep,Great product excellent for help in sleeping well. I sleep better with this product.,"{'neg': 0.0, 'neu': 0.34, 'pos': 0.66, 'compound': 0.9382}",0.9382,pos
+4,4,134216,2024-06-16,,"I was waking up and couldn't get back to sleep, Relaxium helps me fall back to sleep.  Great product.","{'neg': 0.0, 'neu': 0.705, 'pos': 0.295, 'compound': 0.7717}",0.7717,pos
+5,5,134216,2024-05-25,,We found this product works excellent for the issues we have would recommend this product if you have issues with sleeping.,"{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.7351}",0.7351,pos
+6,6,134216,2023-12-20,,"All is good ..quality too, ingredients , size , dosage, lot of benefit .. taste good ","{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.8316}",0.8316,pos
+7,7,134216,2023-12-30,relaxium sleep,"I have taken this product for two weeks. It does not work, it is a total waste of money. does not work as advertised.","{'neg': 0.118, 'neu': 0.882, 'pos': 0.0, 'compound': -0.4215}",-0.4215,neg
+8,8,134216,2024-06-20,Sorry but it did not help me to sleep,"I can't  say that Relaxium Sleep helped me to sleep, but everybody is different and demands different remedy.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+9,9,134216,2024-03-18,Although it doesn't make me sleepy. . .,"I'm not saying that I'll be able to sleep right away after drinking it, but I do feel calmer.","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5023}",0.5023,pos

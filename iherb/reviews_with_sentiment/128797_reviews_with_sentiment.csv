@@ -1,0 +1,26 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,128797,2024-04-02,Wonderful,"I bought it for my 14 y daughter, i don't want her to depend on melatonin, so this was the reason, she absolutely loves the test!!! She's picky:) It helps her fall asleep faster!","{'neg': 0.033, 'neu': 0.757, 'pos': 0.21, 'compound': 0.8195}",0.8195,pos
+1,1,128797,2024-04-14,Works well,"Helps me to shut off and relax before I sleep, not as good without melatonin but still works to calm down I feel. ","{'neg': 0.067, 'neu': 0.669, 'pos': 0.264, 'compound': 0.612}",0.612,pos
+2,2,128797,2023-11-14,Completely ineffective!,"Feels no difference with and without. Tried for a week, still no
+
+
+
+
+
+ effect. Simply a bottle of gummy bear.","{'neg': 0.227, 'neu': 0.773, 'pos': 0.0, 'compound': -0.5267}",-0.5267,neg
+3,3,128797,2024-02-27,It works~,"It's not as effective as melatonin, but it still helps me fall asleep. Instead, I think I should take a larger dose than melatonin.","{'neg': 0.073, 'neu': 0.786, 'pos': 0.141, 'compound': 0.3865}",0.3865,pos
+4,4,128797,2024-05-25,,"Sleep Support Chewable Tablets Contains 200 mg of Lutemax® 2020 Per Serving America's #1 Brand of Vitamin Gummies Adult Sleep Support Melatonin-Free Sleep Dietary Supplement Vitafusion™ Melatonin-Free Sleep is a delicious way to help support sleep quality . Formulated for adults with 200 mg of Lutemax® 2020 per dose/serving, these cherry and peach flavored gummies are a great addition to any sleep routine. No Artificial Sweeteners Gluten Free No High Fructose Corn Syrup Dairy Free No Artificial Dyes Used in Food, Drugs and Cosmetics","{'neg': 0.064, 'neu': 0.67, 'pos': 0.266, 'compound': 0.9674}",0.9674,pos
+5,5,128797,2024-03-05,Excellent!,"I previously took a product that contained 3mg of melatonin, but it is not available in Korea. I'll try the melatonin-free product too. I hope it works :)","{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.8338}",0.8338,pos
+6,6,128797,2024-02-04,It's nice to be able to sleep,"It's more effective than the product I'm used to. The quality and ingredients are natural, so I'm relieved because it's non-habit forming. It's small in size, tastes good, and the dosage is 2 pills, so it's okay.","{'neg': 0.0, 'neu': 0.691, 'pos': 0.309, 'compound': 0.9161}",0.9161,pos
+7,7,128797,2023-12-07,Sleep peacefully,"First of all, it's easy to eat. It's sweet so I don't think it would bother me if I brush my teeth, but it's sugar free. I just eat it. The size is good and the effect is small. The dosage is just right.","{'neg': 0.034, 'neu': 0.721, 'pos': 0.245, 'compound': 0.8898}",0.8898,pos
+8,8,128797,2024-06-06,amazing,"It deserves more than five stars. It helped me sleep, but unfortunately it is always closed ","{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.4767}",-0.4767,neg
+9,9,128797,2024-05-16,,It tastes good and is effective. It's a shame it's often sold out.,"{'neg': 0.171, 'neu': 0.497, 'pos': 0.331, 'compound': 0.4404}",0.4404,pos
+10,10,128797,2024-03-19,grandmother,"The first time I used it, it was good for helping you sleep, so even adults can use it ","{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.6249}",0.6249,pos
+11,11,128797,2024-03-18,very good,"Used to replace melatonin. After all, melatonin is sometimes dependent on","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+12,12,128797,2024-02-24,very good,"Even though Berry Good is expensive, I have no choice but to order it.","{'neg': 0.11, 'neu': 0.756, 'pos': 0.134, 'compound': 0.09}",0.09,pos
+13,13,128797,2024-01-15,,It's a shame that it's often sold out. Delivery is fast and I am satisfied with the product.,"{'neg': 0.156, 'neu': 0.704, 'pos': 0.141, 'compound': -0.0772}",-0.0772,neg
+14,14,128797,2023-11-23,sleep disorder,I tried it for sleep. I'll start taking it now and see more effects.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+15,15,128797,2024-07-09,,"Why did you try to calm me down, but I don't sleep, but my son doesn't sleep, nor do I unless you're tired. It helps you sleep, but it doesn't let you sleep if you stay up late and want to adjust your sleep.
+","{'neg': 0.08, 'neu': 0.786, 'pos': 0.134, 'compound': 0.1655}",0.1655,pos
+16,16,128797,2024-06-17,not too bad,It is difficult to expect any special effects. ,"{'neg': 0.223, 'neu': 0.536, 'pos': 0.241, 'compound': 0.0516}",0.0516,pos
+17,17,128797,2023-11-02,Satisfaction,The quality of my sleep seems to be improving.,"{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}",0.4215,pos

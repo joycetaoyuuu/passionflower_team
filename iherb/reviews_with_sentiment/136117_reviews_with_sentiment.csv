@@ -1,0 +1,7 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,136117,2024-08-03,My dog loves theme,My little dog is so fussy on things he likes but he loves the taste of these and he takes them without an issue. the quality is great and it seems to calm him down he is very anxious but seems to work for him. ,"{'neg': 0.05, 'neu': 0.684, 'pos': 0.266, 'compound': 0.9275}",0.9275,pos
+1,1,136117,2024-09-24,Great,Quality product. It has decent ingredients. I thought the serving size was a bit large for my small dog. ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+2,2,136117,2024-07-25,Calm and zen doggy,Works great when you need your hyper pup to chill. One chew takes the edge off and then they bounce back to themselves. ,"{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.6249}",0.6249,pos
+3,3,136117,2024-04-15,,"These work so well! And my dog loves the taste, it’s like a special treat for her! ","{'neg': 0.0, 'neu': 0.424, 'pos': 0.576, 'compound': 0.9316}",0.9316,pos
+4,4,136117,2024-07-20,Not really calming ,I’m afraid these don’t seem to work on my dog. She doesn’t even like them all that much ,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.3612}",0.3612,pos
+5,5,136117,2024-02-17,Calming ,"I bought mine for Yorkie, I give him half because his eyes are in a fog from a whole one))) 2.3 kg ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu

@@ -1,0 +1,5 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,142453,2024-10-17,Good product / amazing taste!,"I take melatonin sporadically when I need an extra boost for a deep night’s sleep, and I have to say, it’s a fantastic high-quality product! It tastes amazing, too!
+","{'neg': 0.0, 'neu': 0.663, 'pos': 0.337, 'compound': 0.893}",0.893,pos
+1,1,142453,2024-08-31,Quality brand,"I like this brand, good quality. The liposomal form is better absorbed by the body. Well-chosen ingredients for quality sleep and falling asleep quickly.","{'neg': 0.055, 'neu': 0.657, 'pos': 0.287, 'compound': 0.7717}",0.7717,pos
+2,2,142453,2024-07-11,Best supplement for sleep,This is the best supplement for sleep I have tried. Notices good effect and sleeps through the night ,"{'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.7964}",0.7964,pos

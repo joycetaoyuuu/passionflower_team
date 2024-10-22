@@ -1,0 +1,5 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,132394,2024-02-15,my fault,"I just couldn't administer this properly, 4 to 5 times per day to get something non tasty into his mouth just isn't realistic for me. so i can't speak of its efficacy, but administering it docks 2 stars for me ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+1,1,132394,2024-08-25,,"I hope it is useful. As soon as I try it, I will update my evaluation for the benefit. It arrived in excellent condition.","{'neg': 0.0, 'neu': 0.576, 'pos': 0.424, 'compound': 0.91}",0.91,pos
+2,2,132394,2024-06-22,Excellent!," WishGarden Herbs is of excellent quality, brings many benefits, has no taste or smell","{'neg': 0.113, 'neu': 0.564, 'pos': 0.323, 'compound': 0.6249}",0.6249,pos
+3,3,132394,2024-02-06,Carefully ,"It contains alcohol, it is recommended to give it from 1 year of age, I tried it myself first, sorry, but after that I wanted to have a snack. How can you give this to children?!","{'neg': 0.035, 'neu': 0.913, 'pos': 0.052, 'compound': 0.1386}",0.1386,pos
