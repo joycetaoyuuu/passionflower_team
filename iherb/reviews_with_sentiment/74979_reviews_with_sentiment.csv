@@ -1,0 +1,6 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,74979,2024-09-21,good,I needed some help to boost my brain during work and hope this will help.,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.875}",0.875,pos
+1,1,74979,2024-08-05,,"Quality Ingredients Quantity Age Lack of aftertaste Improve the effect of preventing aftertaste 
+
+","{'neg': 0.209, 'neu': 0.613, 'pos': 0.178, 'compound': 0.128}",0.128,pos
+2,2,74979,2020-12-16,,"I gave it to the child during intense loads at school, it helps to concentrate attention and not be distracted, you need to take 2 banks for the course.","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.6041}",0.6041,pos

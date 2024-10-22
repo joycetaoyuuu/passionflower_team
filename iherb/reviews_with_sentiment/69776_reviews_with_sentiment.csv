@@ -1,0 +1,4 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,69776,2017-06-18,Worthless product,"Used this product  several times and actually stayed awake the entire night.  In addition, when I first opened the product,  it looked like there were not that many pills in the bottle.  Sure enough , after counting  it, I was 16 pills short, blatant thievery.  And this stuff is quite expensive.  ","{'neg': 0.057, 'neu': 0.852, 'pos': 0.091, 'compound': 0.2023}",0.2023,pos
+1,1,69776,2016-10-12,excellent Product,excellent Product,"{'neg': 0.0, 'neu': 0.213, 'pos': 0.787, 'compound': 0.5719}",0.5719,pos
+2,2,69776,2018-02-14,Nice,Nice,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}",0.4215,pos
