@@ -1,0 +1,98 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,107213,2023-11-26,Great product,"Flavour is ok, and dropper is attached on with the lid.
+The liquid type works fast and great for when you need help to fall asleep faster. ","{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.8402}",0.8402,pos
+1,1,107213,2024-06-17,For Insomnia. ,"
+Have used this product faithfully for 7 + years.  
+Love the Combination of Rapid Acting L-theanine PLUS Melatonin liquid, that gets your to sleep fast, but also can help with middle of the night awakening.","{'neg': 0.0, 'neu': 0.788, 'pos': 0.212, 'compound': 0.7935}",0.7935,pos
+2,2,107213,2023-10-29,tastes great,"good ingredients, added l-thianine is great. However, recommended dosage is annoying but other then that really good.
+
+be careful with how long you take this for. there is a possibility of disruption of your body making this hormone.","{'neg': 0.108, 'neu': 0.636, 'pos': 0.255, 'compound': 0.7136}",0.7136,pos
+3,3,107213,2023-04-30,,"Nature's Way Sleep Tonight Melatonin Drops with L-Theanine & Herbals in Cherry flavor is an excellent product that provides a natural and effective way to support healthy sleep patterns. The drops are easy to use and contain a blend of natural ingredients that work together to promote relaxation and restful sleep.
+
+Melatonin is a natural hormone that helps regulate sleep-wake cycles, while L-Theanine is an amino acid that promotes relaxation and reduces stress and anxiety. The drops also contain a blend of herbals, including passionflower and chamomile, which are known for their calming and soothing properties.
+
+Nature's Way is a trusted brand that has been providing high-quality dietary supplements for many years. Its Sleep Tonight Melatonin Drops have received excellent reviews from customers who have reported noticeable improvements in their sleep quality and overall relaxation.
+
+Overall, Nature's Way Sleep Tonight Melatonin Drops with L-Theanine & Herbals in Cherry flavor is a top-quality product that provides numerous health benefits. It is highly recommended for anyone looking to support healthy sleep patterns and promote relaxation naturally.","{'neg': 0.021, 'neu': 0.635, 'pos': 0.345, 'compound': 0.9963}",0.9963,pos
+4,4,107213,2023-03-27,,Sleep Tonight Melatonin Drops work very quickly.  I usually fall asleep within 5 minutes of going to bed.  Sometimes I wake up at 2 a.m. and I take more of the drops which allows me to fall back to sleep quickly.  I wake up feeling refreshed and ready for my day.,"{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4588}",0.4588,pos
+5,5,107213,2024-08-20,Sleep tonight,Very good! Works well (better than expected) and tasty. Recommended!,"{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.787}",0.787,pos
+6,6,107213,2024-07-30,Sleep,Helps me almost sleep at night straight without waking up,"{'neg': 0.0, 'neu': 0.64, 'pos': 0.36, 'compound': 0.5423}",0.5423,pos
+7,7,107213,2024-07-12,Amazing ,When I take these I start to feel relaxed almost immediately and start to feel sleepy. ,"{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}",0.4939,pos
+8,8,107213,2024-02-04,Amazing!,"The quality of my sleeping is much better, the taste is ok and the dosage is great too, it is so helpful ","{'neg': 0.0, 'neu': 0.584, 'pos': 0.416, 'compound': 0.9156}",0.9156,pos
+9,9,107213,2023-12-31,Good ,Good quality for my husband although he prefers no flavor. ,"{'neg': 0.168, 'neu': 0.611, 'pos': 0.221, 'compound': 0.1779}",0.1779,pos
+10,10,107213,2023-03-09,,"works well and proven products. Helps a good sleeps .
+Have seen great improvement on my sons great taste. Good quality product. Recommended. 
+ Right size of packaging ","{'neg': 0.0, 'neu': 0.42, 'pos': 0.58, 'compound': 0.9702}",0.9702,pos
+11,11,107213,2022-01-11,Helps me relax ...,"Very easy to take and really works. 
+The marks on the dropper help with the amount to take. Pleasing taste.
+It is very effective to get me into sleep with each use. ","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.9133}",0.9133,pos
+12,12,107213,2023-03-19,Not bad,Not expecting miracles for my insomnia. These do make you drowsy which is great to get you off to sleep again. Like the fact that you can increase dosage. Taste is good. Will buy again ,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.8957}",0.8957,pos
+13,13,107213,2022-10-30,Good product,"
+Good product and working like it should!! Been ordering from iherb for about a year now and always received product in a timely manner. Will continue to deal with them. Product had made us sleep faster and feel rested. Thanks","{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.8353}",0.8353,pos
+14,14,107213,2021-08-14,,"one of the best sleeping aid for people who find it hard to fall asleep. I'm one of them. it's very easy to use, juts take few drops and it's done. I usually fall asleep 5 -15 mins after taking ""sleep tonight"". it's works very well. and I like cherry flavour. 
+quality of sleep is also good. I experience deep sleep and wake up fresh next morning. ","{'neg': 0.019, 'neu': 0.745, 'pos': 0.236, 'compound': 0.9464}",0.9464,pos
+15,15,107213,2023-04-07,Tried better,It tastes good but the quality isn't the best. It didn't help me sleep as much as other brands with the same dosage. I won't reorder this product. ,"{'neg': 0.223, 'neu': 0.719, 'pos': 0.058, 'compound': -0.7571}",-0.7571,neg
+16,16,107213,2022-11-17,,The dropper dosage size makes it easy to use but I don’t like the sweet taste. Reminds me of cough syrup. It does seem to help with sleep. But I would prefer to not have the sweet ingredient or cherry flavor. ,"{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.9497}",0.9497,pos
+17,17,107213,2022-05-04,Does the job,"It sends me off to sleep, though I am still a little drowsy in the morning, so I reduced the amount recommended on the bottle slightly and now it works well (everybody is different). I love cherry flavoured items, but this leaves a weird aftertaste in your mouth and always need to rinse my mouth out after, which makes me worry that I am reducing the efficiency, though I do try to wait a few minutes before doing so. In other words, I am happy with the product, but because of the taste thing, I may try other ones next time.","{'neg': 0.057, 'neu': 0.81, 'pos': 0.133, 'compound': 0.7876}",0.7876,pos
+18,18,107213,2021-12-04,Why I use Sleep Tonight…,"This is easy to take and really works. The relaxing ingredients plus the melatonin and theanine make an effective, quality combination. The marks on the dropper help with the amount to take. Pleasing taste. ","{'neg': 0.0, 'neu': 0.651, 'pos': 0.349, 'compound': 0.9389}",0.9389,pos
+19,19,107213,2023-09-23,,"highly recommended 
+good quality and price 
+If you liked my review, please give it a thumb up. Thank you in advance!","{'neg': 0.0, 'neu': 0.533, 'pos': 0.467, 'compound': 0.9035}",0.9035,pos
+20,20,107213,2023-08-13,,Works very well we ave bought this items twice and every time I take it it will put me to sleep straight away. ,"{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.5095}",0.5095,pos
+21,21,107213,2023-05-03,,Very quick work and you do not need to drink water as it goes straight to your mouth.,"{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.2263}",0.2263,pos
+22,22,107213,2023-04-08,,Melatonin & L-theanine is a BIG help to me.   These drops work well.  ,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.5859}",0.5859,pos
+23,23,107213,2023-03-06,,My husband loves this. It helps him sleep better than anything he has tried so far.,"{'neg': 0.0, 'neu': 0.586, 'pos': 0.414, 'compound': 0.8481}",0.8481,pos
+24,24,107213,2022-10-31,,"Great taste and awesome, usual melatonin effects. Great sleep without drowsiness if dosed properly. Thank you","{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.9413}",0.9413,pos
+25,25,107213,2022-10-05,,"It really helped me to sleep nicely and deeply!
+You won't feel sleepy when you wake up.
+It tastes fine.
+The price is reasonable. ","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.6114}",0.6114,pos
+26,26,107213,2023-06-27,,"easy to use dosage, no bitter aftertaste like some drops. Nice flavour.","{'neg': 0.248, 'neu': 0.347, 'pos': 0.406, 'compound': 0.4939}",0.4939,pos
+27,27,107213,2023-04-24,,"It tasts sweet, which is not bad, but I find tablets easier to take. Just my personal preference.","{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.7667}",0.7667,pos
+28,28,107213,2022-10-20,,proportional ingredients. suitable size. benefit for my family. quality product indeed. nice taste. ,"{'neg': 0.0, 'neu': 0.655, 'pos': 0.345, 'compound': 0.7003}",0.7003,pos
+29,29,107213,2022-06-11,Good product ,"This is one of the best things for insomnia 
+really works better than most ","{'neg': 0.0, 'neu': 0.619, 'pos': 0.381, 'compound': 0.8115}",0.8115,pos
+30,30,107213,2021-08-19,,This Melatonin drop is easy to use and tastes good. It is very effective to get me into sleep with each use. No side effects! 👍🏼,"{'neg': 0.124, 'neu': 0.604, 'pos': 0.273, 'compound': 0.7339}",0.7339,pos
+31,31,107213,2021-08-17,,"Have always had trouble falling asleep. This is the 1st natural solution which has worked for me. 
+
+I take 4 to 5 droppers about 1/2 hour before bedtime. 
+
+Much better than straight melatonin drops. ","{'neg': 0.111, 'neu': 0.643, 'pos': 0.247, 'compound': 0.6486}",0.6486,pos
+32,32,107213,2022-06-23,,"For me it didn't work, was wide awake , I got it for sleeping, but it didn't do what i read on the (positive) reviews","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+33,33,107213,2022-08-23,,The taste is acceptable not bad 🥰,"{'neg': 0.0, 'neu': 0.437, 'pos': 0.563, 'compound': 0.631}",0.631,pos
+34,34,107213,2022-08-09,Great,Helps to fall a sleep and tasty ,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}",0.3818,pos
+35,35,107213,2022-06-03,,"Very good quality,, love ittt🤍","{'neg': 0.0, 'neu': 0.282, 'pos': 0.718, 'compound': 0.8251}",0.8251,pos
+36,36,107213,2022-01-25,great sleep,my husband have used this for years GREAT PRODUCT,"{'neg': 0.0, 'neu': 0.623, 'pos': 0.377, 'compound': 0.7034}",0.7034,pos
+37,37,107213,2022-03-05,,Highly recommend ,"{'neg': 0.0, 'neu': 0.264, 'pos': 0.736, 'compound': 0.4201}",0.4201,pos
+38,38,107213,2022-04-22,,Nice taste and easy to use,"{'neg': 0.0, 'neu': 0.412, 'pos': 0.588, 'compound': 0.6908}",0.6908,pos
+39,39,107213,2021-09-14,Helps me relax and it's natural that it's a plus,The ingredients are excellent,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,pos
+40,40,107213,2024-08-25,excellent liquid melatonin,"High quality ingredients, good size, although the dose is two a day. Great benefit for sleeping, I use it if I wake up in the middle of the night, the taste is good, . Otherwise there are no complaints. I recommend trying it, especially if you have insomnia problems. Since I discovered it, I have never been without it at home.","{'neg': 0.11, 'neu': 0.667, 'pos': 0.223, 'compound': 0.8316}",0.8316,pos
+41,41,107213,2024-08-12,Melatin,"A very good drug, the taste is good. We are buying it for our 5-year-old son, he is picky about medicine, but he takes it without problems and does not even drink it, he falls asleep 30 minutes after taking it. It is very effective, now we take 1.5 mg of the drug (somewhere around 2 mg of melatonin) and for a similar effect of another drug we need 0.5 mg (5 mg of melatonin) and even more, so after trying several different types of liquid melatonin, we returned to this, already 3 or 4 cans.","{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.8926}",0.8926,pos
+42,42,107213,2024-01-05,,"The quality is excellent, the ingredients are the best, health improves, the size is average, the supplement is what you need, the packaging is good, there are benefits, digestion improves, microbiome, absorption, the intestines work, constipation is gone.","{'neg': 0.0, 'neu': 0.627, 'pos': 0.373, 'compound': 0.9584}",0.9584,pos
+43,43,107213,2023-12-27,,"The quality is excellent, the ingredients are the best, health improves, the size is average, the supplement is what you need, the packaging is good, there are benefits, digestion improves, microbiome, absorption, the intestines work, constipation is gone. The dosage is excellent. The taste is good.","{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.9766}",0.9766,pos
+44,44,107213,2023-02-01,,"I asked him if the ingredients really matched. It's a little expensive, so I want to buy it again when it's cheaper. The good thing is that the scent is not strong and gentle. It was easy to use. I don't know if it worked because the quality is good, but it was very good.","{'neg': 0.061, 'neu': 0.753, 'pos': 0.187, 'compound': 0.747}",0.747,pos
+45,45,107213,2024-10-09,Effective ,"Good value for money, detailed ingredients, easy to use and effective! I recommend this product. ","{'neg': 0.0, 'neu': 0.39, 'pos': 0.61, 'compound': 0.92}",0.92,pos
+46,46,107213,2024-08-10,,"Taking for my husband, good quality, comfortable size, correct dose, no taste ","{'neg': 0.126, 'neu': 0.517, 'pos': 0.356, 'compound': 0.6124}",0.6124,pos
+47,47,107213,2024-06-13,,"Glycerin, purified water, citric acid (preservative to maintain freshness), vegetable and fruit juice (color), natural flavor.","{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.3612}",0.3612,pos
+48,48,107213,2024-03-09,The composition is just super,"I ordered it for the first time, I hope the result will be as gorgeous as its composition","{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.7845}",0.7845,pos
+49,49,107213,2024-03-02,,Easy-to-absorb melatonin drops can help regulate your sleep cycle so you can fall asleep for more productive work in the future.,"{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}",0.4019,pos
+50,50,107213,2024-02-09,OF GREAT HELP TO SLEEP BETTER,Great product to improve your rest. Since taking it I have noticed better rest and deeper sleep.,"{'neg': 0.0, 'neu': 0.568, 'pos': 0.432, 'compound': 0.872}",0.872,pos
+51,51,107213,2023-05-03,Prominent,"A non-alcoholic and nutritionally fortified product, with a delicious taste, a very suitable package size, an appropriate amount in each box, a strong sleep aid, and an excellent nutritional supplement","{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.8934}",0.8934,pos
+52,52,107213,2024-05-09,Melatonin for better sleep,"I didn't notice any special effect. Pleasant tasting drops, convenient packaging. ","{'neg': 0.167, 'neu': 0.59, 'pos': 0.243, 'compound': 0.2598}",0.2598,pos
+53,53,107213,2023-01-31,,"The quality is excellent, the ingredients are the best, the size is average, the price is reasonable, the dosage is good, there are benefits, the taste is good.","{'neg': 0.0, 'neu': 0.585, 'pos': 0.415, 'compound': 0.946}",0.946,pos
+54,54,107213,2024-01-12,,"Easy-to-absorb melatonin drops can help regulate your sleep cycle, so you can fall asleep","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4019}",0.4019,pos
+55,55,107213,2022-10-12,Works faster than melatonin alone,"I had already used liquid type melatonin, but this melatonin contains theanine, which is highly relaxing. If you take only melatonin before meals, you will feel sleepy about an hour after eating, but with this product, you will feel light and comfortable about 30 minutes after taking it. But I'm not extremely sleepy, so I can do things I need to do before going to bed (brushing my teeth, preparing clothes for tomorrow, etc.).","{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.8804}",0.8804,pos
+56,56,107213,2022-04-07,sleep support,"I have been sleeping poorly for several years, and I asked the great god that the drops are easy to absorb and more durable than expected. Remind you, be sure to read the instructions to eat, it is not that the larger the dose, the better, the appropriate dose is the best!","{'neg': 0.0, 'neu': 0.701, 'pos': 0.299, 'compound': 0.9571}",0.9571,pos
+57,57,107213,2022-01-16,,"I was able to sleep for 7 hours without waking up with one drop. The taste was candy-like sweetness and I didn't resist. It's sweet, so it may be better before brushing your teeth.","{'neg': 0.122, 'neu': 0.717, 'pos': 0.162, 'compound': 0.3653}",0.3653,pos
+58,58,107213,2023-10-08,Like,"Very wonderful. I fell asleep quickly after half an hour of using it. The ingredients, quality, and packaging are excellent","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.8268}",0.8268,pos
+59,59,107213,2023-05-19,,Not too sweet and long enough. I will buy again. Excellent effect. I try something every time and this time I will order again,"{'neg': 0.098, 'neu': 0.755, 'pos': 0.147, 'compound': 0.3004}",0.3004,pos
+60,60,107213,2023-04-09,Multiple repurchases,"Repurchased a bottle many times, it can be eaten for a long time, the effect is great, and the liquid is better absorbed","{'neg': 0.0, 'neu': 0.731, 'pos': 0.269, 'compound': 0.7906}",0.7906,pos
+61,61,107213,2022-12-07,,"This remedy helps to fall asleep well, soft action, I wake up well rested in the morning","{'neg': 0.0, 'neu': 0.657, 'pos': 0.343, 'compound': 0.7003}",0.7003,pos
+62,62,107213,2022-09-10,,"We find this product excellent, we use it with our son with autism, it helps him a lot to fall asleep. Just watch if you start waking up at night it's time to lower your dose. Containing L theanine helps you a lot with calm too","{'neg': 0.043, 'neu': 0.739, 'pos': 0.218, 'compound': 0.8402}",0.8402,pos
+63,63,107213,2023-10-18,sleep problems,"I've been looking for a product to help with sleep problems, and I hope this is it.","{'neg': 0.133, 'neu': 0.591, 'pos': 0.276, 'compound': 0.4404}",0.4404,pos
+64,64,107213,2022-08-12,,the combination of ingredients is very good for sleep induction,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4927}",0.4927,pos
+65,65,107213,2022-07-05,,"very good and most important natural remedy for insomnia. I took my sister, she is delighted","{'neg': 0.0, 'neu': 0.492, 'pos': 0.508, 'compound': 0.8851}",0.8851,pos
+66,66,107213,2021-10-15,good.,"It helps a lot, after 15 minutes it cuts out, from a long intake in the morning the head began to hurt, it became very hard to sway.","{'neg': 0.229, 'neu': 0.69, 'pos': 0.082, 'compound': -0.5709}",-0.5709,neg
+67,67,107213,2022-04-14,,Excellent but the taste is unacceptable,"{'neg': 0.386, 'neu': 0.386, 'pos': 0.227, 'compound': -0.3919}",-0.3919,neg
+68,68,107213,2022-02-28,help sleep,Drowsiness half an hour after taking it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+69,69,107213,2021-08-29,,Help sleep,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,pos

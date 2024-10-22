@@ -1,0 +1,14 @@
+,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,0,121388,2024-06-25,it works,Our daughter uses this to help her sleep. So I ordered it for my husband cause he can never sleep through the night. Now he can. He takes two  about an hour before he goes to bed. It really knocks him out . We think it's easy to swallow and good quality. We'll buy again.,"{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.8176}",0.8176,pos
+1,1,121388,2023-10-31,Great,"Great quality has all the ingredients list that would make you sleep
+Actually knocked me out and slept without waking up which is exactly what it says it does
+But you do wake up groggy a bit and a bit tired 
+Nothing too bad though
+But totally recommend this for people who have a hard time going to sleep and staying asleep","{'neg': 0.078, 'neu': 0.777, 'pos': 0.144, 'compound': 0.6772}",0.6772,pos
+2,2,121388,2024-10-16,My Go To,"This calmer alternative sleep aid has done wonders for my sleep. I cannot take melatonin because it makes me feel so tired and groggy the following day.
+
+With this sleep aid, I rest much better and wake up feeling refreshed, these are great, natural ingredients!","{'neg': 0.069, 'neu': 0.678, 'pos': 0.253, 'compound': 0.8422}",0.8422,pos
+3,3,121388,2024-04-24,,Quality is super good. Ingredients are also very good. Taste is neutral. I am very satisfied with this product. I recommend this product to everyone. ,"{'neg': 0.0, 'neu': 0.541, 'pos': 0.459, 'compound': 0.9359}",0.9359,pos
+4,4,121388,2024-07-26,Well,"Sleep is essential, I try to take what is most natural. ","{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.4201}",0.4201,pos
+5,5,121388,2024-09-13,weak,"I didn't notice much of an effect, the capsules are not big, there is no strong aroma
+ ","{'neg': 0.113, 'neu': 0.718, 'pos': 0.169, 'compound': 0.2732}",0.2732,pos
