@@ -1,10 +1,10 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,119538,2024-10-05,Tasty melatonin gummies~,"I purchased this for my mother, who has sleep issues. I gave her half a serving to start off with and she seemed to sleep easier than ever. Tastes good like much softer version of Welch gummy candies so its easier to chew and swallow. Goli always made great quality goods so I cannot complain about it, its no wonder it gets sold out frequently. Size of the gummies are perfect bite sizes as well.","{'neg': 0.025, 'neu': 0.709, 'pos': 0.266, 'compound': 0.9642}",0.9642,pos
-1,1,119538,2024-09-21,Excellent product. Recommend ++++,"Excellent! Absolutely recommend if you are struggling to get to sleep. Fall asleep soon after taking them and don't wake up feeling like you haven't had a restful sleep, there are no after effects like feeling drowsy. great for trying to get your sleep pattern back on track.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,119538,2024-10-05,Tasty melatonin gummies~,"I purchased this for my mother, who has sleep issues. I gave her half a serving to start off with and she seemed to sleep easier than ever. Tastes good like much softer version of Welch gummy candies so its easier to chew and swallow. Goli always made great quality goods so I cannot complain about it, its no wonder it gets sold out frequently. Size of the gummies are perfect bite sizes as well.","{'neg': 0.025, 'neu': 0.709, 'pos': 0.266, 'compound': 0.9642}",0.9642,pos
+1,119538,2024-09-21,Excellent product. Recommend ++++,"Excellent! Absolutely recommend if you are struggling to get to sleep. Fall asleep soon after taking them and don't wake up feeling like you haven't had a restful sleep, there are no after effects like feeling drowsy. great for trying to get your sleep pattern back on track.
 They taste nice, too! Great quality & value for money.
 No harmful ingredients. ","{'neg': 0.146, 'neu': 0.545, 'pos': 0.309, 'compound': 0.9471}",0.9471,pos
-2,2,119538,2024-07-31,GOLI Dream sleep Gummies ,I’ve been taking these for many months now.  They really help with sleep. I used to take the 5mg dose but now take the 10mg. Love the taste and love how the higher dose gummies are smaller but they taste even more delicious than the 5mg ones which I didn’t think that could be possible. Highly recommend ,"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.9771}",0.9771,pos
-3,3,119538,2024-07-18,,"Quality is very good for health
+2,119538,2024-07-31,GOLI Dream sleep Gummies ,I’ve been taking these for many months now.  They really help with sleep. I used to take the 5mg dose but now take the 10mg. Love the taste and love how the higher dose gummies are smaller but they taste even more delicious than the 5mg ones which I didn’t think that could be possible. Highly recommend ,"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.9771}",0.9771,pos
+3,119538,2024-07-18,,"Quality is very good for health
 Supplement very nice
 Digestion goood
 Microbiome 
@@ -43,25 +43,25 @@ Essential oil nice
 Sensitive no
 Moisturizer good 
 Nourishment 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻","{'neg': 0.016, 'neu': 0.396, 'pos': 0.589, 'compound': 0.9976}",0.9976,pos
-4,4,119538,2024-05-03,Need Some Sleep,"This was actually recommended by my husbands dr. to try and help him get some rest.  He enjoys the taste says it's like a little desert, seems to help him get to sleep faster, the dosage is just 2, the ingredients are awesome with added benefits to the sleep cycle. ","{'neg': 0.0, 'neu': 0.681, 'pos': 0.319, 'compound': 0.9565}",0.9565,pos
-5,5,119538,2024-09-21,,"In general, I buy products in bulk, there is no extra discount and sometimes expired products may be sent, please be careful, but overall it is very good.","{'neg': 0.05, 'neu': 0.722, 'pos': 0.227, 'compound': 0.6848}",0.6848,pos
-6,6,119538,2024-06-29,They Work Sometimes,"These are great, the taste is decent but I don’t think they always work very well for me. I prefer fast dissolve tablets or capsules, but I keep these around as backup. ","{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.6848}",0.6848,pos
-7,7,119538,2024-09-14,I’m loving these ,These are the best ones I’ve tried yet.  I always keep them beside my bed so I never forget to take them.  ,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.7306}",0.7306,pos
-8,8,119538,2024-09-25,Very helpful!,Helpful dosage to support getting ready for sleep. Tastes nice when chilled rather than hot and natural ingredients and a decent size and quality.,"{'neg': 0.0, 'neu': 0.575, 'pos': 0.425, 'compound': 0.9062}",0.9062,pos
-9,9,119538,2024-09-23,Excellent ,Fantastic product! Will purchase this product again. Thank you for making available.,"{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.75}",0.75,pos
-10,10,119538,2024-09-15,Amazing brand ,Great great quality for gummies to help u sleep. I take the dosage mentioned and help me get good night sleep,"{'neg': 0.0, 'neu': 0.459, 'pos': 0.541, 'compound': 0.9477}",0.9477,pos
-11,11,119538,2024-09-06,,"I always have a good sleep with this one. effective,","{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.7184}",0.7184,pos
-12,12,119538,2024-08-28,,"Everything from iHerb is good quality good price good package, I really recommend to buy from I herb ! ","{'neg': 0.0, 'neu': 0.505, 'pos': 0.495, 'compound': 0.8953}",0.8953,pos
-13,13,119538,2024-07-26,Great Gummies ,Great quality and good ingredients its yummy and tastes good use the dose mentioned and it will make u go to sleep,"{'neg': 0.0, 'neu': 0.561, 'pos': 0.439, 'compound': 0.9231}",0.9231,pos
-14,14,119538,2024-05-27,Goli,Very veeeeeery good and useful product I love it too much finally ,"{'neg': 0.0, 'neu': 0.438, 'pos': 0.562, 'compound': 0.8828}",0.8828,pos
-15,15,119538,2024-09-29,Melatonin as is,good product. sad to hear that listed as imported bad product,"{'neg': 0.377, 'neu': 0.457, 'pos': 0.166, 'compound': -0.5719}",-0.5719,neg
-16,16,119538,2024-06-20,,Good quality stuff big size bottle taste good too I recommend ,"{'neg': 0.0, 'neu': 0.458, 'pos': 0.542, 'compound': 0.8074}",0.8074,pos
-17,17,119538,2024-09-11,It's ok...,Didn't work for me but I do have a high tolerance now since I've been taking melatonin for so long. ,"{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4215}",0.4215,pos
-18,18,119538,2024-10-04,,"I ordered it for my sister and the quantity was excellent. She loved it and, thank God, I don’t have any problems, but she says it’s good.","{'neg': 0.056, 'neu': 0.579, 'pos': 0.364, 'compound': 0.8442}",0.8442,pos
-19,19,119538,2024-06-04,,It is a very effective sedative and helps to adjust sleep beautifully and does not cause breakage in the body like other products ,"{'neg': 0.0, 'neu': 0.596, 'pos': 0.404, 'compound': 0.9041}",0.9041,pos
-20,20,119538,2024-10-09,Effective ,"Good value for money, detailed ingredients, easy to use and effective! I recommend this product. ","{'neg': 0.0, 'neu': 0.39, 'pos': 0.61, 'compound': 0.92}",0.92,pos
-21,21,119538,2024-08-19,amazing,It tastes good and sweet and you feel psychological comfort and relaxation after it. ,"{'neg': 0.0, 'neu': 0.459, 'pos': 0.541, 'compound': 0.8957}",0.8957,pos
-22,22,119538,2024-04-28,My name,Chewable tablets that help with sleep and the brand is very excellent and repeatable ,"{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.7713}",0.7713,pos
-23,23,119538,2024-02-13,,"An excellent, high-quality product. The ingredients are great, the quantity is sufficient, and the taste is palatable","{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.886}",0.886,pos
-24,24,119538,2023-09-20,,"Oh, I can sleep well just by taking one. Two is fine if I need it.","{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.4404}",0.4404,pos
-25,25,119538,2023-08-30,,"It's not tangled, the taste is not so good.","{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.464}",-0.464,neg
+4,119538,2024-05-03,Need Some Sleep,"This was actually recommended by my husbands dr. to try and help him get some rest.  He enjoys the taste says it's like a little desert, seems to help him get to sleep faster, the dosage is just 2, the ingredients are awesome with added benefits to the sleep cycle. ","{'neg': 0.0, 'neu': 0.681, 'pos': 0.319, 'compound': 0.9565}",0.9565,pos
+5,119538,2024-09-21,,"In general, I buy products in bulk, there is no extra discount and sometimes expired products may be sent, please be careful, but overall it is very good.","{'neg': 0.05, 'neu': 0.722, 'pos': 0.227, 'compound': 0.6848}",0.6848,pos
+6,119538,2024-06-29,They Work Sometimes,"These are great, the taste is decent but I don’t think they always work very well for me. I prefer fast dissolve tablets or capsules, but I keep these around as backup. ","{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.6848}",0.6848,pos
+7,119538,2024-09-14,I’m loving these ,These are the best ones I’ve tried yet.  I always keep them beside my bed so I never forget to take them.  ,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.7306}",0.7306,pos
+8,119538,2024-09-25,Very helpful!,Helpful dosage to support getting ready for sleep. Tastes nice when chilled rather than hot and natural ingredients and a decent size and quality.,"{'neg': 0.0, 'neu': 0.575, 'pos': 0.425, 'compound': 0.9062}",0.9062,pos
+9,119538,2024-09-23,Excellent ,Fantastic product! Will purchase this product again. Thank you for making available.,"{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.75}",0.75,pos
+10,119538,2024-09-15,Amazing brand ,Great great quality for gummies to help u sleep. I take the dosage mentioned and help me get good night sleep,"{'neg': 0.0, 'neu': 0.459, 'pos': 0.541, 'compound': 0.9477}",0.9477,pos
+11,119538,2024-09-06,,"I always have a good sleep with this one. effective,","{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.7184}",0.7184,pos
+12,119538,2024-08-28,,"Everything from iHerb is good quality good price good package, I really recommend to buy from I herb ! ","{'neg': 0.0, 'neu': 0.505, 'pos': 0.495, 'compound': 0.8953}",0.8953,pos
+13,119538,2024-07-26,Great Gummies ,Great quality and good ingredients its yummy and tastes good use the dose mentioned and it will make u go to sleep,"{'neg': 0.0, 'neu': 0.561, 'pos': 0.439, 'compound': 0.9231}",0.9231,pos
+14,119538,2024-05-27,Goli,Very veeeeeery good and useful product I love it too much finally ,"{'neg': 0.0, 'neu': 0.438, 'pos': 0.562, 'compound': 0.8828}",0.8828,pos
+15,119538,2024-09-29,Melatonin as is,good product. sad to hear that listed as imported bad product,"{'neg': 0.377, 'neu': 0.457, 'pos': 0.166, 'compound': -0.5719}",-0.5719,neg
+16,119538,2024-06-20,,Good quality stuff big size bottle taste good too I recommend ,"{'neg': 0.0, 'neu': 0.458, 'pos': 0.542, 'compound': 0.8074}",0.8074,pos
+17,119538,2024-09-11,It's ok...,Didn't work for me but I do have a high tolerance now since I've been taking melatonin for so long. ,"{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4215}",0.4215,pos
+18,119538,2024-10-04,,"I ordered it for my sister and the quantity was excellent. She loved it and, thank God, I don’t have any problems, but she says it’s good.","{'neg': 0.056, 'neu': 0.579, 'pos': 0.364, 'compound': 0.8442}",0.8442,pos
+19,119538,2024-06-04,,It is a very effective sedative and helps to adjust sleep beautifully and does not cause breakage in the body like other products ,"{'neg': 0.0, 'neu': 0.596, 'pos': 0.404, 'compound': 0.9041}",0.9041,pos
+20,119538,2024-10-09,Effective ,"Good value for money, detailed ingredients, easy to use and effective! I recommend this product. ","{'neg': 0.0, 'neu': 0.39, 'pos': 0.61, 'compound': 0.92}",0.92,pos
+21,119538,2024-08-19,amazing,It tastes good and sweet and you feel psychological comfort and relaxation after it. ,"{'neg': 0.0, 'neu': 0.459, 'pos': 0.541, 'compound': 0.8957}",0.8957,pos
+22,119538,2024-04-28,My name,Chewable tablets that help with sleep and the brand is very excellent and repeatable ,"{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.7713}",0.7713,pos
+23,119538,2024-02-13,,"An excellent, high-quality product. The ingredients are great, the quantity is sufficient, and the taste is palatable","{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.886}",0.886,pos
+24,119538,2023-09-20,,"Oh, I can sleep well just by taking one. Two is fine if I need it.","{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.4404}",0.4404,pos
+25,119538,2023-08-30,,"It's not tangled, the taste is not so good.","{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.464}",-0.464,neg

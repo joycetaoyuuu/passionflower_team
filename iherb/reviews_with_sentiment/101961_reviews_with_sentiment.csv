@@ -1,92 +1,92 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,101961,2023-11-09,love it. ,"
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,101961,2023-11-09,love it. ,"
 MegaFood's Herbal Sleep in 60 capsules is a sleep game-changer. The subtle herbal scent adds a calming element to my bedtime routine. Its effectiveness in promoting restful sleep has made it a must-have in my nightly regimen.","{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.7717}",0.7717,pos
-1,1,101961,2024-01-19,,"I have difficulty falling asleep. Herbal sleep has helped me fall asleep at night and stop the overthinking. All ingredients are natural. the size of the pills is big, but could be swallowed with enough water. ","{'neg': 0.123, 'neu': 0.83, 'pos': 0.047, 'compound': -0.2144}",-0.2144,neg
-2,2,101961,2024-01-01,,"I can highly recommend iHerb to anyone looking for high-quality supplements at reasonable prices. You can always benefit from their extensive range of products available, wonderful quality, and reliable shipping.","{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.8588}",0.8588,pos
-3,3,101961,2024-05-08,Herbal Sleep ,"These work good to help me get to sleep.  However, I feel they wear off after a few hours & I am awake again.  I do like this brand in other products that I have tried.  Easy to swallow. ","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.875}",0.875,pos
-4,4,101961,2024-02-10,Helpful,This is one of the few things that has helped me fall into a deep sleep. After years of tossing and turning I’m finally able to dream and have a refreshing sleep.,"{'neg': 0.0, 'neu': 0.935, 'pos': 0.065, 'compound': 0.25}",0.25,pos
-5,5,101961,2024-02-19,,Give you good sleep quality but expensive. Has nice ingredients.,"{'neg': 0.0, 'neu': 0.586, 'pos': 0.414, 'compound': 0.6858}",0.6858,pos
-6,6,101961,2022-11-11,Good buy,"I've been using herbal formulas similar to this one for years to fall asleep, and the ingredients as well as dosage in this quality product have been of benefit. The capsule size is a bit larger than I am used to, but the taste isn't bad when downing with water.  ","{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.745}",0.745,pos
-7,7,101961,2023-11-25,it's very hard to digest but helps deeper sleep,I've tried it 3 times so far and every time it causes a massive reflux and heartburn ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-8,8,101961,2023-08-18,,"Suggested use
+1,101961,2024-01-19,,"I have difficulty falling asleep. Herbal sleep has helped me fall asleep at night and stop the overthinking. All ingredients are natural. the size of the pills is big, but could be swallowed with enough water. ","{'neg': 0.123, 'neu': 0.83, 'pos': 0.047, 'compound': -0.2144}",-0.2144,neg
+2,101961,2024-01-01,,"I can highly recommend iHerb to anyone looking for high-quality supplements at reasonable prices. You can always benefit from their extensive range of products available, wonderful quality, and reliable shipping.","{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.8588}",0.8588,pos
+3,101961,2024-05-08,Herbal Sleep ,"These work good to help me get to sleep.  However, I feel they wear off after a few hours & I am awake again.  I do like this brand in other products that I have tried.  Easy to swallow. ","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.875}",0.875,pos
+4,101961,2024-02-10,Helpful,This is one of the few things that has helped me fall into a deep sleep. After years of tossing and turning I’m finally able to dream and have a refreshing sleep.,"{'neg': 0.0, 'neu': 0.935, 'pos': 0.065, 'compound': 0.25}",0.25,pos
+5,101961,2024-02-19,,Give you good sleep quality but expensive. Has nice ingredients.,"{'neg': 0.0, 'neu': 0.586, 'pos': 0.414, 'compound': 0.6858}",0.6858,pos
+6,101961,2022-11-11,Good buy,"I've been using herbal formulas similar to this one for years to fall asleep, and the ingredients as well as dosage in this quality product have been of benefit. The capsule size is a bit larger than I am used to, but the taste isn't bad when downing with water.  ","{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.745}",0.745,pos
+7,101961,2023-11-25,it's very hard to digest but helps deeper sleep,I've tried it 3 times so far and every time it causes a massive reflux and heartburn ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+8,101961,2023-08-18,,"Suggested use
 
 Take 1 capsule 1, 2 hours before bedtime with a beverage. May be taken on an empty stomach. Recommended to take for at least one week for best results.
 
 Warnings","{'neg': 0.114, 'neu': 0.714, 'pos': 0.171, 'compound': 0.4588}",0.4588,pos
-9,9,101961,2022-07-11,,"It did help me to fall asleep deeply and with no dry mouth or foggy brain in the morning. Most importantly I did not wake up at 4am as I always do since my divorce. I am using it every Sunday when my anxiety is at its highest and on Friday evening when o know I will be able to sleep until late in the morning so I have a good rest. 
+9,101961,2022-07-11,,"It did help me to fall asleep deeply and with no dry mouth or foggy brain in the morning. Most importantly I did not wake up at 4am as I always do since my divorce. I am using it every Sunday when my anxiety is at its highest and on Friday evening when o know I will be able to sleep until late in the morning so I have a good rest. 
 It worked for me. ","{'neg': 0.054, 'neu': 0.835, 'pos': 0.111, 'compound': 0.6494}",0.6494,pos
-10,10,101961,2024-07-29,,I haven’t tried it yet but I hope it benefits me,"{'neg': 0.0, 'neu': 0.491, 'pos': 0.509, 'compound': 0.8047}",0.8047,pos
-11,11,101961,2023-12-09,Average,"Sometimes, it's working, but Something is not. Personal opinion melatonin is better ","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.5927}",0.5927,pos
-12,12,101961,2023-09-11,,"good quality ingredients, helps with falling asleep easily, good size bottle ","{'neg': 0.087, 'neu': 0.326, 'pos': 0.587, 'compound': 0.8481}",0.8481,pos
-13,13,101961,2023-10-04,Sleep support,Very good quality suppliment. Mega food is a brand i trust. ,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.7574}",0.7574,pos
-14,14,101961,2023-09-19,,Very good quality good price I like iherb products they are trusted website ,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.8998}",0.8998,pos
-15,15,101961,2023-08-30,,Works great and I love that everything in it is natural ,"{'neg': 0.0, 'neu': 0.393, 'pos': 0.607, 'compound': 0.8957}",0.8957,pos
-16,16,101961,2023-02-08,,"organic and reliable.
+10,101961,2024-07-29,,I haven’t tried it yet but I hope it benefits me,"{'neg': 0.0, 'neu': 0.491, 'pos': 0.509, 'compound': 0.8047}",0.8047,pos
+11,101961,2023-12-09,Average,"Sometimes, it's working, but Something is not. Personal opinion melatonin is better ","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.5927}",0.5927,pos
+12,101961,2023-09-11,,"good quality ingredients, helps with falling asleep easily, good size bottle ","{'neg': 0.087, 'neu': 0.326, 'pos': 0.587, 'compound': 0.8481}",0.8481,pos
+13,101961,2023-10-04,Sleep support,Very good quality suppliment. Mega food is a brand i trust. ,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.7574}",0.7574,pos
+14,101961,2023-09-19,,Very good quality good price I like iherb products they are trusted website ,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.8998}",0.8998,pos
+15,101961,2023-08-30,,Works great and I love that everything in it is natural ,"{'neg': 0.0, 'neu': 0.393, 'pos': 0.607, 'compound': 0.8957}",0.8957,pos
+16,101961,2023-02-08,,"organic and reliable.
 It helped me relaxed and easier falling asleep.","{'neg': 0.103, 'neu': 0.513, 'pos': 0.385, 'compound': 0.6597}",0.6597,pos
-17,17,101961,2023-07-07,,Still testing them. But no dizzy head the second day. No flavor and easy to swallow. ,"{'neg': 0.334, 'neu': 0.504, 'pos': 0.162, 'compound': -0.4767}",-0.4767,neg
-18,18,101961,2023-01-15,,Nice natural ingredients. But the dosage should be increased. Expected more,"{'neg': 0.0, 'neu': 0.559, 'pos': 0.441, 'compound': 0.6486}",0.6486,pos
-19,19,101961,2022-03-23,,I find it helpful for me to have a good sleep. Its herb ingredient make me having confidence to take it constantly without worrying side effects of other sleeping pills. Its quality undoubtedly good.,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.9175}",0.9175,pos
-20,20,101961,2023-01-20,OK,"dosent work that good, but better than nothing I guess","{'neg': 0.0, 'neu': 0.547, 'pos': 0.453, 'compound': 0.7003}",0.7003,pos
-21,21,101961,2022-06-04,,High quality easy to digest perfect benefit to enjoy deep sleep in addition natural ingredients ,"{'neg': 0.0, 'neu': 0.395, 'pos': 0.605, 'compound': 0.936}",0.936,pos
-22,22,101961,2022-05-31,,Have tried other sleep aids. This one by far is one of the best.,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}",0.6369,pos
-23,23,101961,2022-01-25,Great experience!,"Wonderful product, best prices and fast shipping and delivery. Great experience!","{'neg': 0.0, 'neu': 0.394, 'pos': 0.606, 'compound': 0.923}",0.923,pos
-24,24,101961,2022-03-18,,It really help with insomnia ,"{'neg': 0.0, 'neu': 0.572, 'pos': 0.428, 'compound': 0.4576}",0.4576,pos
-25,25,101961,2021-09-03,,Really helps to fall asleep. I take it together with Melatonin 15mg,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.4391}",0.4391,pos
-26,26,101961,2022-07-12,Excellent product.  Very calming and totally herbal.  ,"Great product, quality herbal mongmo ingredients 
+17,101961,2023-07-07,,Still testing them. But no dizzy head the second day. No flavor and easy to swallow. ,"{'neg': 0.334, 'neu': 0.504, 'pos': 0.162, 'compound': -0.4767}",-0.4767,neg
+18,101961,2023-01-15,,Nice natural ingredients. But the dosage should be increased. Expected more,"{'neg': 0.0, 'neu': 0.559, 'pos': 0.441, 'compound': 0.6486}",0.6486,pos
+19,101961,2022-03-23,,I find it helpful for me to have a good sleep. Its herb ingredient make me having confidence to take it constantly without worrying side effects of other sleeping pills. Its quality undoubtedly good.,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.9175}",0.9175,pos
+20,101961,2023-01-20,OK,"dosent work that good, but better than nothing I guess","{'neg': 0.0, 'neu': 0.547, 'pos': 0.453, 'compound': 0.7003}",0.7003,pos
+21,101961,2022-06-04,,High quality easy to digest perfect benefit to enjoy deep sleep in addition natural ingredients ,"{'neg': 0.0, 'neu': 0.395, 'pos': 0.605, 'compound': 0.936}",0.936,pos
+22,101961,2022-05-31,,Have tried other sleep aids. This one by far is one of the best.,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}",0.6369,pos
+23,101961,2022-01-25,Great experience!,"Wonderful product, best prices and fast shipping and delivery. Great experience!","{'neg': 0.0, 'neu': 0.394, 'pos': 0.606, 'compound': 0.923}",0.923,pos
+24,101961,2022-03-18,,It really help with insomnia ,"{'neg': 0.0, 'neu': 0.572, 'pos': 0.428, 'compound': 0.4576}",0.4576,pos
+25,101961,2021-09-03,,Really helps to fall asleep. I take it together with Melatonin 15mg,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.4391}",0.4391,pos
+26,101961,2022-07-12,Excellent product.  Very calming and totally herbal.  ,"Great product, quality herbal mongmo ingredients 
 ","{'neg': 0.0, 'neu': 0.549, 'pos': 0.451, 'compound': 0.6249}",0.6249,pos
-27,27,101961,2022-04-11,,Good effect for me! I like the value too!,"{'neg': 0.0, 'neu': 0.374, 'pos': 0.626, 'compound': 0.8118}",0.8118,pos
-28,28,101961,2020-12-16,,"Works,but it took time","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-29,29,101961,2024-07-14,,"The quality of this product is simply the best on the market, it’s a big +, the composition is no different from competitors’ products, but I had no questions about it, the packaging is good and reliable, everything arrived intact without any defects or damage, the advantage for me is a good price for such a quality product","{'neg': 0.122, 'neu': 0.629, 'pos': 0.25, 'compound': 0.8476}",0.8476,pos
-30,30,101961,2024-06-08,,"Quality, package size and ingredients are important when choosing products. When purchasing, you should pay attention to the transparency of the packaging to assess the condition of the product. Reading the ingredients will help you avoid unwanted ingredients. The size of the package depends on needs and preferences, and whether the product will last after opening. It is important to take your own dietary requirements and goals into account when choosing foods.","{'neg': 0.071, 'neu': 0.848, 'pos': 0.081, 'compound': 0.2023}",0.2023,pos
-31,31,101961,2024-01-27,,"the quality is excellent, the ingredients are clean, the size is convenient, the packaging is glass, the result is there, the energy is there, the taste is neutral, the benefits are there","{'neg': 0.0, 'neu': 0.716, 'pos': 0.284, 'compound': 0.8779}",0.8779,pos
-32,32,101961,2023-12-26,Sleep aid,"Pure natural herbal ingredients, with a slight smell. Take it before going to bed. The effect has not been seen yet. It should be taken for a long time before it will take effect.","{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.3612}",0.3612,pos
-33,33,101961,2023-12-19,Herbal sleep,Pure plant formula. I bought this for my relative. She has poor sleep quality due to high work pressure. I haven’t consulted her about the effect of taking it.,"{'neg': 0.175, 'neu': 0.825, 'pos': 0.0, 'compound': -0.6486}",-0.6486,neg
-34,34,101961,2023-03-25,,"The ingredients are simple and the effect is very good. Occasionally, I suffer from insomnia, and my friend introduced it to use. It is really effective and can increase the time of deep sleep. The price of buying on iHerb is much more reasonable. I am happy to use it and recommend it to everyone","{'neg': 0.051, 'neu': 0.676, 'pos': 0.273, 'compound': 0.9335}",0.9335,pos
-35,35,101961,2024-08-22,efficient,It’s very relaxing and helps you sleep before going to bed at night.,"{'neg': 0.0, 'neu': 0.634, 'pos': 0.366, 'compound': 0.7474}",0.7474,pos
-36,36,101961,2024-06-27,excellent dose ,"Excellent quality, good ingredient, convenient size, good packaging, advantage in the price of the product, taste, I definitely recommend it!","{'neg': 0.0, 'neu': 0.433, 'pos': 0.567, 'compound': 0.9432}",0.9432,pos
-37,37,101961,2023-10-31,,"quality product with natural ingredients, capsule size is normal. the packaging is correct, no unpleasant taste. this food supplement has a lot of benefits","{'neg': 0.18, 'neu': 0.646, 'pos': 0.173, 'compound': -0.0516}",-0.0516,neg
-38,38,101961,2023-10-08,ME sleep,"The quality of the ingredients and the dosage of each plant provides a sleep benefit. Despite a slight taste and the size of the lozenges, I do not see any problem in being able to swallow one with only a glass of water. This product allows you to regain normal sleep if you were to have slight sleep disorders","{'neg': 0.0, 'neu': 0.91, 'pos': 0.09, 'compound': 0.6437}",0.6437,pos
-39,39,101961,2022-11-30,Improve mother's sleep quality,"My mother can only sleep intermittently for three or four hours every night when she is getting older. Now, she takes one pill an hour before, and can sleep for four hours continuously in about half a month. to sleep","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-40,40,101961,2024-10-07,,"It seems to be effective, it contains valerian, a plant ingredient","{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.4767}",0.4767,pos
-41,41,101961,2024-07-26,thank you,I definitely feel like I'm sleeping well,"{'neg': 0.0, 'neu': 0.291, 'pos': 0.709, 'compound': 0.743}",0.743,pos
-42,42,101961,2023-03-29,,"I haven’t been sleeping well enough, and I wake up easily in the middle of the day. I made some herbal adjustments. I hope it will be useful.","{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.8519}",0.8519,pos
-43,43,101961,2023-01-14,,"MegaFood Herbal Sleep Formula provides a sense of relaxation and restorative sleep. Valerian and Hops are used to promote restful sleep for those with occasional insomnia, while Passion Flower and Sensoril® Ashwagandha calm the mind and body to help release tension.","{'neg': 0.044, 'neu': 0.637, 'pos': 0.319, 'compound': 0.9217}",0.9217,pos
-44,44,101961,2023-08-30,,"The smell is very, very beautiful. It is good and wonderful. Its quality is excellent. The size is suitable","{'neg': 0.0, 'neu': 0.504, 'pos': 0.496, 'compound': 0.941}",0.941,pos
-45,45,101961,2023-07-23,Excellent!,Excellent product! Fully complies with the described criteria and qualities indicated on the label!,"{'neg': 0.0, 'neu': 0.752, 'pos': 0.248, 'compound': 0.6467}",0.6467,pos
-46,46,101961,2023-07-18,,Additive with a natural composition. Helps to fall asleep faster and relieve nervous tension.,"{'neg': 0.22, 'neu': 0.4, 'pos': 0.38, 'compound': 0.4939}",0.4939,pos
-47,47,101961,2023-02-27,,"I have a sleep disorder. I eat it sometimes when I feel bad. Any help. It's not dramatic, though.","{'neg': 0.297, 'neu': 0.574, 'pos': 0.129, 'compound': -0.5423}",-0.5423,neg
-48,48,101961,2023-01-20,,"Herbal Sleep natural ingredients, comfortable dosage, pleasant taste, brings many benefits","{'neg': 0.0, 'neu': 0.374, 'pos': 0.626, 'compound': 0.8934}",0.8934,pos
-49,49,101961,2022-12-12,Excellent!,Very good product. I am really satisfied. I recommand it,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.742}",0.742,pos
-50,50,101961,2022-11-05,,I am happy to purchase this product. Very helpful and recommended.,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.8341}",0.8341,pos
-51,51,101961,2023-05-31,,"Organic herbs are very useful for falling asleep, falling asleep, and deep sleep. I liked it, but its percentage is light, and it needs two or three pills","{'neg': 0.096, 'neu': 0.77, 'pos': 0.134, 'compound': 0.2807}",0.2807,pos
-52,52,101961,2022-09-19,,"I used it for 4 days, and I didn't see a strong result, but it says at least a week on it. Also, this is not for severe insomnia. I advise for insomnia and depression the legal ruqyah and the Quran","{'neg': 0.163, 'neu': 0.731, 'pos': 0.107, 'compound': -0.5228}",-0.5228,neg
-53,53,101961,2023-07-06,"Poor sleep, hope it works",Sleep doesn't seem to improve much after taking it,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.3412}",-0.3412,neg
-54,54,101961,2022-09-18,,"It's really good to eat and sleep, it's very convenient to buy here","{'neg': 0.0, 'neu': 0.79, 'pos': 0.21, 'compound': 0.4927}",0.4927,pos
-55,55,101961,2023-06-05,,Thank you always for quick delivery and convenient ordering. I am eating well. Looking forward to the effect.,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.5574}",0.5574,pos
-56,56,101961,2021-02-10,,Recently my husband and I have been ill. Now we are suffering from insomnia. I took it as recommended to calm down and improve the quality of sleep.,"{'neg': 0.174, 'neu': 0.619, 'pos': 0.206, 'compound': 0.0258}",0.0258,neu
-57,57,101961,2022-09-17,,"Bought it for my son, I have repurchased it many times","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-58,58,101961,2023-05-05,,"It works, sleep better","{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,pos
-59,59,101961,2023-03-19,,"The smell is very smelly, the effect is average, and it is not obvious for alleviating sleep disorders","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-60,60,101961,2023-09-22,First purchase,I felt that melatonin was more effective.,"{'neg': 0.0, 'neu': 0.596, 'pos': 0.404, 'compound': 0.5256}",0.5256,pos
-61,61,101961,2021-08-23,,The supplement is not for very severe problems and insomnia.,"{'neg': 0.223, 'neu': 0.598, 'pos': 0.179, 'compound': -0.1475}",-0.1475,neg
-62,62,101961,2022-10-13,,Sleep quality is really good after use👍👍👍😌,"{'neg': 0.0, 'neu': 0.653, 'pos': 0.347, 'compound': 0.4927}",0.4927,pos
-63,63,101961,2022-05-20,,recommend. good supplement. good composition.,"{'neg': 0.0, 'neu': 0.194, 'pos': 0.806, 'compound': 0.8074}",0.8074,pos
-64,64,101961,2021-02-09,,as a sedative is wonderful. and the firm I trust,"{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.7906}",0.7906,pos
-65,65,101961,2021-02-01,Soothes well!,"I don't really want to sleep with them, I have no problems with sleep. I took more as a sedative - it works! )","{'neg': 0.307, 'neu': 0.693, 'pos': 0.0, 'compound': -0.6839}",-0.6839,neg
-66,66,101961,2021-01-14,,"It contains all the soothing herbs, my husband really liked the result. Sleep is deeper and more restful.","{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.8012}",0.8012,pos
-67,67,101961,2022-03-26,,"Wonderful improves sleep, calms and wakes up without disturbance","{'neg': 0.0, 'neu': 0.313, 'pos': 0.687, 'compound': 0.8745}",0.8745,pos
-68,68,101961,2021-08-11,,"He can't put me to sleep right away, it may take longer to observe. But i like his ingredients","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5023}",0.5023,pos
-69,69,101961,2021-06-24,,"a good option for a natural sleeping pill. does not work instantly, but with a cumulative effect","{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.4019}",0.4019,pos
-70,70,101961,2021-02-24,Difficulty expecting effects,"I ate because of insomnia, but I am unsatisfied. The ingredients are good, but it is difficult to expect a great effect for people with severe insomnia.","{'neg': 0.264, 'neu': 0.491, 'pos': 0.245, 'compound': 0.0772}",0.0772,pos
-71,71,101961,2022-06-28,,improves mood,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,pos
-72,72,101961,2021-09-05,,I recommend it,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,pos
-73,73,101961,2021-06-01,very nice!!,Natural herbal ingredients make people feel at ease!!,"{'neg': 0.0, 'neu': 0.518, 'pos': 0.482, 'compound': 0.6792}",0.6792,pos
-74,74,101961,2021-05-02,,"Helps with insomnia, but wakes up often at dawn","{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.2023}",0.2023,pos
-75,75,101961,2021-03-05,,"An excellent product with a good composition, works great","{'neg': 0.0, 'neu': 0.318, 'pos': 0.682, 'compound': 0.8934}",0.8934,pos
-76,76,101961,2021-03-03,,Did help me sleep more deeply,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}",0.4019,pos
-77,77,101961,2021-02-21,Help deep sleep,"Help deep sleep, less dreams, sleep soundly","{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.6258}",0.6258,pos
-78,78,101961,2021-01-22,,Works great! I fall asleep quickly.,"{'neg': 0.0, 'neu': 0.477, 'pos': 0.523, 'compound': 0.6588}",0.6588,pos
-79,79,101961,2021-05-14,,It didn't suit me and it smelled bad,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}",-0.5423,neg
-80,80,101961,2021-03-05,,I have been drinking for about 1.5 weeks. The effect is not really felt :(,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.3843}",0.3843,pos
-81,81,101961,2021-01-27,,good drug,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,pos
-82,82,101961,2021-01-09,Gradually induces deep sleep,I really liked it!,"{'neg': 0.0, 'neu': 0.371, 'pos': 0.629, 'compound': 0.5244}",0.5244,pos
+27,101961,2022-04-11,,Good effect for me! I like the value too!,"{'neg': 0.0, 'neu': 0.374, 'pos': 0.626, 'compound': 0.8118}",0.8118,pos
+28,101961,2020-12-16,,"Works,but it took time","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+29,101961,2024-07-14,,"The quality of this product is simply the best on the market, it’s a big +, the composition is no different from competitors’ products, but I had no questions about it, the packaging is good and reliable, everything arrived intact without any defects or damage, the advantage for me is a good price for such a quality product","{'neg': 0.122, 'neu': 0.629, 'pos': 0.25, 'compound': 0.8476}",0.8476,pos
+30,101961,2024-06-08,,"Quality, package size and ingredients are important when choosing products. When purchasing, you should pay attention to the transparency of the packaging to assess the condition of the product. Reading the ingredients will help you avoid unwanted ingredients. The size of the package depends on needs and preferences, and whether the product will last after opening. It is important to take your own dietary requirements and goals into account when choosing foods.","{'neg': 0.071, 'neu': 0.848, 'pos': 0.081, 'compound': 0.2023}",0.2023,pos
+31,101961,2024-01-27,,"the quality is excellent, the ingredients are clean, the size is convenient, the packaging is glass, the result is there, the energy is there, the taste is neutral, the benefits are there","{'neg': 0.0, 'neu': 0.716, 'pos': 0.284, 'compound': 0.8779}",0.8779,pos
+32,101961,2023-12-26,Sleep aid,"Pure natural herbal ingredients, with a slight smell. Take it before going to bed. The effect has not been seen yet. It should be taken for a long time before it will take effect.","{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.3612}",0.3612,pos
+33,101961,2023-12-19,Herbal sleep,Pure plant formula. I bought this for my relative. She has poor sleep quality due to high work pressure. I haven’t consulted her about the effect of taking it.,"{'neg': 0.175, 'neu': 0.825, 'pos': 0.0, 'compound': -0.6486}",-0.6486,neg
+34,101961,2023-03-25,,"The ingredients are simple and the effect is very good. Occasionally, I suffer from insomnia, and my friend introduced it to use. It is really effective and can increase the time of deep sleep. The price of buying on iHerb is much more reasonable. I am happy to use it and recommend it to everyone","{'neg': 0.051, 'neu': 0.676, 'pos': 0.273, 'compound': 0.9335}",0.9335,pos
+35,101961,2024-08-22,efficient,It’s very relaxing and helps you sleep before going to bed at night.,"{'neg': 0.0, 'neu': 0.634, 'pos': 0.366, 'compound': 0.7474}",0.7474,pos
+36,101961,2024-06-27,excellent dose ,"Excellent quality, good ingredient, convenient size, good packaging, advantage in the price of the product, taste, I definitely recommend it!","{'neg': 0.0, 'neu': 0.433, 'pos': 0.567, 'compound': 0.9432}",0.9432,pos
+37,101961,2023-10-31,,"quality product with natural ingredients, capsule size is normal. the packaging is correct, no unpleasant taste. this food supplement has a lot of benefits","{'neg': 0.18, 'neu': 0.646, 'pos': 0.173, 'compound': -0.0516}",-0.0516,neg
+38,101961,2023-10-08,ME sleep,"The quality of the ingredients and the dosage of each plant provides a sleep benefit. Despite a slight taste and the size of the lozenges, I do not see any problem in being able to swallow one with only a glass of water. This product allows you to regain normal sleep if you were to have slight sleep disorders","{'neg': 0.0, 'neu': 0.91, 'pos': 0.09, 'compound': 0.6437}",0.6437,pos
+39,101961,2022-11-30,Improve mother's sleep quality,"My mother can only sleep intermittently for three or four hours every night when she is getting older. Now, she takes one pill an hour before, and can sleep for four hours continuously in about half a month. to sleep","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+40,101961,2024-10-07,,"It seems to be effective, it contains valerian, a plant ingredient","{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.4767}",0.4767,pos
+41,101961,2024-07-26,thank you,I definitely feel like I'm sleeping well,"{'neg': 0.0, 'neu': 0.291, 'pos': 0.709, 'compound': 0.743}",0.743,pos
+42,101961,2023-03-29,,"I haven’t been sleeping well enough, and I wake up easily in the middle of the day. I made some herbal adjustments. I hope it will be useful.","{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.8519}",0.8519,pos
+43,101961,2023-01-14,,"MegaFood Herbal Sleep Formula provides a sense of relaxation and restorative sleep. Valerian and Hops are used to promote restful sleep for those with occasional insomnia, while Passion Flower and Sensoril® Ashwagandha calm the mind and body to help release tension.","{'neg': 0.044, 'neu': 0.637, 'pos': 0.319, 'compound': 0.9217}",0.9217,pos
+44,101961,2023-08-30,,"The smell is very, very beautiful. It is good and wonderful. Its quality is excellent. The size is suitable","{'neg': 0.0, 'neu': 0.504, 'pos': 0.496, 'compound': 0.941}",0.941,pos
+45,101961,2023-07-23,Excellent!,Excellent product! Fully complies with the described criteria and qualities indicated on the label!,"{'neg': 0.0, 'neu': 0.752, 'pos': 0.248, 'compound': 0.6467}",0.6467,pos
+46,101961,2023-07-18,,Additive with a natural composition. Helps to fall asleep faster and relieve nervous tension.,"{'neg': 0.22, 'neu': 0.4, 'pos': 0.38, 'compound': 0.4939}",0.4939,pos
+47,101961,2023-02-27,,"I have a sleep disorder. I eat it sometimes when I feel bad. Any help. It's not dramatic, though.","{'neg': 0.297, 'neu': 0.574, 'pos': 0.129, 'compound': -0.5423}",-0.5423,neg
+48,101961,2023-01-20,,"Herbal Sleep natural ingredients, comfortable dosage, pleasant taste, brings many benefits","{'neg': 0.0, 'neu': 0.374, 'pos': 0.626, 'compound': 0.8934}",0.8934,pos
+49,101961,2022-12-12,Excellent!,Very good product. I am really satisfied. I recommand it,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.742}",0.742,pos
+50,101961,2022-11-05,,I am happy to purchase this product. Very helpful and recommended.,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.8341}",0.8341,pos
+51,101961,2023-05-31,,"Organic herbs are very useful for falling asleep, falling asleep, and deep sleep. I liked it, but its percentage is light, and it needs two or three pills","{'neg': 0.096, 'neu': 0.77, 'pos': 0.134, 'compound': 0.2807}",0.2807,pos
+52,101961,2022-09-19,,"I used it for 4 days, and I didn't see a strong result, but it says at least a week on it. Also, this is not for severe insomnia. I advise for insomnia and depression the legal ruqyah and the Quran","{'neg': 0.163, 'neu': 0.731, 'pos': 0.107, 'compound': -0.5228}",-0.5228,neg
+53,101961,2023-07-06,"Poor sleep, hope it works",Sleep doesn't seem to improve much after taking it,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.3412}",-0.3412,neg
+54,101961,2022-09-18,,"It's really good to eat and sleep, it's very convenient to buy here","{'neg': 0.0, 'neu': 0.79, 'pos': 0.21, 'compound': 0.4927}",0.4927,pos
+55,101961,2023-06-05,,Thank you always for quick delivery and convenient ordering. I am eating well. Looking forward to the effect.,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.5574}",0.5574,pos
+56,101961,2021-02-10,,Recently my husband and I have been ill. Now we are suffering from insomnia. I took it as recommended to calm down and improve the quality of sleep.,"{'neg': 0.174, 'neu': 0.619, 'pos': 0.206, 'compound': 0.0258}",0.0258,neu
+57,101961,2022-09-17,,"Bought it for my son, I have repurchased it many times","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+58,101961,2023-05-05,,"It works, sleep better","{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,pos
+59,101961,2023-03-19,,"The smell is very smelly, the effect is average, and it is not obvious for alleviating sleep disorders","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+60,101961,2023-09-22,First purchase,I felt that melatonin was more effective.,"{'neg': 0.0, 'neu': 0.596, 'pos': 0.404, 'compound': 0.5256}",0.5256,pos
+61,101961,2021-08-23,,The supplement is not for very severe problems and insomnia.,"{'neg': 0.223, 'neu': 0.598, 'pos': 0.179, 'compound': -0.1475}",-0.1475,neg
+62,101961,2022-10-13,,Sleep quality is really good after use👍👍👍😌,"{'neg': 0.0, 'neu': 0.653, 'pos': 0.347, 'compound': 0.4927}",0.4927,pos
+63,101961,2022-05-20,,recommend. good supplement. good composition.,"{'neg': 0.0, 'neu': 0.194, 'pos': 0.806, 'compound': 0.8074}",0.8074,pos
+64,101961,2021-02-09,,as a sedative is wonderful. and the firm I trust,"{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.7906}",0.7906,pos
+65,101961,2021-02-01,Soothes well!,"I don't really want to sleep with them, I have no problems with sleep. I took more as a sedative - it works! )","{'neg': 0.307, 'neu': 0.693, 'pos': 0.0, 'compound': -0.6839}",-0.6839,neg
+66,101961,2021-01-14,,"It contains all the soothing herbs, my husband really liked the result. Sleep is deeper and more restful.","{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.8012}",0.8012,pos
+67,101961,2022-03-26,,"Wonderful improves sleep, calms and wakes up without disturbance","{'neg': 0.0, 'neu': 0.313, 'pos': 0.687, 'compound': 0.8745}",0.8745,pos
+68,101961,2021-08-11,,"He can't put me to sleep right away, it may take longer to observe. But i like his ingredients","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5023}",0.5023,pos
+69,101961,2021-06-24,,"a good option for a natural sleeping pill. does not work instantly, but with a cumulative effect","{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.4019}",0.4019,pos
+70,101961,2021-02-24,Difficulty expecting effects,"I ate because of insomnia, but I am unsatisfied. The ingredients are good, but it is difficult to expect a great effect for people with severe insomnia.","{'neg': 0.264, 'neu': 0.491, 'pos': 0.245, 'compound': 0.0772}",0.0772,pos
+71,101961,2022-06-28,,improves mood,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,pos
+72,101961,2021-09-05,,I recommend it,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,pos
+73,101961,2021-06-01,very nice!!,Natural herbal ingredients make people feel at ease!!,"{'neg': 0.0, 'neu': 0.518, 'pos': 0.482, 'compound': 0.6792}",0.6792,pos
+74,101961,2021-05-02,,"Helps with insomnia, but wakes up often at dawn","{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.2023}",0.2023,pos
+75,101961,2021-03-05,,"An excellent product with a good composition, works great","{'neg': 0.0, 'neu': 0.318, 'pos': 0.682, 'compound': 0.8934}",0.8934,pos
+76,101961,2021-03-03,,Did help me sleep more deeply,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}",0.4019,pos
+77,101961,2021-02-21,Help deep sleep,"Help deep sleep, less dreams, sleep soundly","{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.6258}",0.6258,pos
+78,101961,2021-01-22,,Works great! I fall asleep quickly.,"{'neg': 0.0, 'neu': 0.477, 'pos': 0.523, 'compound': 0.6588}",0.6588,pos
+79,101961,2021-05-14,,It didn't suit me and it smelled bad,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}",-0.5423,neg
+80,101961,2021-03-05,,I have been drinking for about 1.5 weeks. The effect is not really felt :(,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.3843}",0.3843,pos
+81,101961,2021-01-27,,good drug,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,pos
+82,101961,2021-01-09,Gradually induces deep sleep,I really liked it!,"{'neg': 0.0, 'neu': 0.371, 'pos': 0.629, 'compound': 0.5244}",0.5244,pos

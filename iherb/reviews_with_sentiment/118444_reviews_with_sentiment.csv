@@ -1,11 +1,11 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,118444,2024-08-25,,"Good product , ingredients is very good , size is good.  I will buy again","{'neg': 0.0, 'neu': 0.492, 'pos': 0.508, 'compound': 0.8514}",0.8514,pos
-1,1,118444,2024-08-31,Great,Care size smell scent benefit feel frequency personal routine quality,"{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.7351}",0.7351,pos
-2,2,118444,2024-02-08,amazing,comes with quality ingredient that gives benefit to my health,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}",0.4588,pos
-3,3,118444,2024-02-08,Works great!,Excellent quality. Packaged well. Size is just right. Easy to use. Smells nice. Works wonders and works fast. Effective. Good value for the money. ,"{'neg': 0.0, 'neu': 0.461, 'pos': 0.539, 'compound': 0.9578}",0.9578,pos
-4,4,118444,2024-01-29,很好！,"I like it, it makes me happy. I buy it for my family ","{'neg': 0.0, 'neu': 0.592, 'pos': 0.408, 'compound': 0.7351}",0.7351,pos
-5,5,118444,2023-06-14,,Another great product from them. Has so much goodness packed in just one spoon. All it takes is few days and all the coughing is gone.,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.8115}",0.8115,pos
-6,6,118444,2024-07-26,Gorgeous beautiful,"Beautiful, wonderful, I always recommend it, good smell, excellent quality, suitable size, easy to use, suitable for age, beautiful, very very beautiful.","{'neg': 0.0, 'neu': 0.322, 'pos': 0.678, 'compound': 0.9806}",0.9806,pos
-7,7,118444,2024-05-12,Good ,Gave it to the child as part of a cough treatment complex. Good volume and price. ,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,pos
-8,8,118444,2024-04-29,good,"It's not too sweet, and it relieves coughs, but the cough relapses as soon as you stop using it.","{'neg': 0.204, 'neu': 0.718, 'pos': 0.079, 'compound': -0.4195}",-0.4195,neg
-9,9,118444,2024-03-27,When your throat feels dry due to an asthmatic cough,It also calms down when you have a scratchy throat and cough.,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}",0.3182,pos
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,118444,2024-08-25,,"Good product , ingredients is very good , size is good.  I will buy again","{'neg': 0.0, 'neu': 0.492, 'pos': 0.508, 'compound': 0.8514}",0.8514,pos
+1,118444,2024-08-31,Great,Care size smell scent benefit feel frequency personal routine quality,"{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.7351}",0.7351,pos
+2,118444,2024-02-08,amazing,comes with quality ingredient that gives benefit to my health,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}",0.4588,pos
+3,118444,2024-02-08,Works great!,Excellent quality. Packaged well. Size is just right. Easy to use. Smells nice. Works wonders and works fast. Effective. Good value for the money. ,"{'neg': 0.0, 'neu': 0.461, 'pos': 0.539, 'compound': 0.9578}",0.9578,pos
+4,118444,2024-01-29,很好！,"I like it, it makes me happy. I buy it for my family ","{'neg': 0.0, 'neu': 0.592, 'pos': 0.408, 'compound': 0.7351}",0.7351,pos
+5,118444,2023-06-14,,Another great product from them. Has so much goodness packed in just one spoon. All it takes is few days and all the coughing is gone.,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.8115}",0.8115,pos
+6,118444,2024-07-26,Gorgeous beautiful,"Beautiful, wonderful, I always recommend it, good smell, excellent quality, suitable size, easy to use, suitable for age, beautiful, very very beautiful.","{'neg': 0.0, 'neu': 0.322, 'pos': 0.678, 'compound': 0.9806}",0.9806,pos
+7,118444,2024-05-12,Good ,Gave it to the child as part of a cough treatment complex. Good volume and price. ,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,pos
+8,118444,2024-04-29,good,"It's not too sweet, and it relieves coughs, but the cough relapses as soon as you stop using it.","{'neg': 0.204, 'neu': 0.718, 'pos': 0.079, 'compound': -0.4195}",-0.4195,neg
+9,118444,2024-03-27,When your throat feels dry due to an asthmatic cough,It also calms down when you have a scratchy throat and cough.,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}",0.3182,pos
