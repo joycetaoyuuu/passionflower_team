@@ -1,38 +1,38 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,72473,2024-06-25,,I highly recommend this product you can feel the calmness when you take it I probably will buy again ,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.6697}",0.6697,pos
-1,1,72473,2024-06-18,Disappointing results,"This supplement contains ingredients that should be effective in helping restful sleep.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,72473,2024-06-25,,I highly recommend this product you can feel the calmness when you take it I probably will buy again ,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.6697}",0.6697,pos
+1,72473,2024-06-18,Disappointing results,"This supplement contains ingredients that should be effective in helping restful sleep.
 I was disappointed with the effect it had on me. Even after increasing the dose I still didn't feel the same effect I have had with other similar products.
 I will not be reordering this product","{'neg': 0.061, 'neu': 0.786, 'pos': 0.153, 'compound': 0.5719}",0.5719,pos
-2,2,72473,2024-05-20,Healthy sleep,Noticed that it improves my sleep for sure. Will buy it again. ,"{'neg': 0.0, 'neu': 0.662, 'pos': 0.338, 'compound': 0.6249}",0.6249,pos
-3,3,72473,2024-08-17,Not good,"Not good for me, did nothing,  I feel more relaxed on other sleep helping products.","{'neg': 0.285, 'neu': 0.596, 'pos': 0.119, 'compound': -0.468}",-0.468,neg
-4,4,72473,2024-08-16,Not effective at all,"The ingredients are not effective, I didn’t feel sleep but stayed awake all the night. Try some else people ","{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.1967}",-0.1967,neg
-5,5,72473,2017-12-04,Works well,My son is blind and has a seizure disorder. He does not sleep easily. This combined with melatonin is the magic potion. Works great!,"{'neg': 0.251, 'neu': 0.616, 'pos': 0.133, 'compound': -0.3875}",-0.3875,neg
-6,6,72473,2023-11-06,Good,"The quality is good, the ingredients are good, the age of the package is still in the beginning. May God benefit from it. I noticed an improvement in sleep","{'neg': 0.0, 'neu': 0.623, 'pos': 0.377, 'compound': 0.9169}",0.9169,pos
-7,7,72473,2024-10-09,Not yet taken,"I haven't taken it yet, but it seems to be effective!! I have a hard time falling asleep and when I wake up, it's hard to fall back asleep.","{'neg': 0.184, 'neu': 0.681, 'pos': 0.135, 'compound': 0.3887}",0.3887,pos
-8,8,72473,2024-05-16,It works for me,"I've been taking Depas for a long time, so I wanted to switch to something natural. It's not super strong, but it makes me sleepy gently. I want to keep taking it.","{'neg': 0.112, 'neu': 0.683, 'pos': 0.205, 'compound': 0.5067}",0.5067,pos
-9,9,72473,2024-01-04,Great herbal sleep and sedative,"I slept really well after the 3 capsules. Because of their comfortable size, they are easy to swallow and have no side effects. Great product.","{'neg': 0.067, 'neu': 0.547, 'pos': 0.386, 'compound': 0.8883}",0.8883,pos
-10,10,72473,2024-07-29,,"It doesn't seem to be of much help to me, and the amount doesn't seem to be enough. Even if I take 3 pills, I will feel like my eyes are tightening, but I will wake up after 3 or 4 hours.","{'neg': 0.0, 'neu': 0.904, 'pos': 0.096, 'compound': 0.3818}",0.3818,pos
-11,11,72473,2024-06-24,medium,"The size is good and the price is good, but I have not tried it personally, so I have no knowledge of its effectiveness and benefit ","{'neg': 0.103, 'neu': 0.643, 'pos': 0.254, 'compound': 0.5694}",0.5694,pos
-12,12,72473,2024-10-09,"Pills for a deep, restful sleep",I bought it based on the safe ingredients written on it and God willing it is worth buying again.,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.7096}",0.7096,pos
-13,13,72473,2024-10-04,great,"The price is cheap and the size is just right, so it's worth eating.","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.2911}",0.2911,pos
-14,14,72473,2024-08-22,Wonderful ,"Excellent biological supplement, prescribed by the doctor in combination with other drugs","{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.5719}",0.5719,pos
-15,15,72473,2024-05-19,,Quality is super good. Ingredients are also good. Size is normal. Taste is neutral. Antioxidant. I am very satisfied with this brand. ,"{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.9152}",0.9152,pos
-16,16,72473,2024-05-06,,"relaxes muscles, activates over 300 key metabolic enzymes, promotes healthy mineral levels in bones and teeth, and regulates electrical activity in nerve cells.","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.765}",0.765,pos
-17,17,72473,2024-04-18,,"High quality, clean ingredients, suitable size, easy to use, good for sleeping","{'neg': 0.0, 'neu': 0.514, 'pos': 0.486, 'compound': 0.8176}",0.8176,pos
-18,18,72473,2024-04-03,fine,It feels a little useful and the taste is acceptable,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6003}",0.6003,pos
-19,19,72473,2024-03-28,I bought this because I can't sleep.,I haven't been able to sleep lately so I bought this to help me get a good night's sleep!,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.7088}",0.7088,pos
-20,20,72473,2024-03-19,,"Trusted brand. An excellent drug. Expiration date is ok. Application was not difficult
+2,72473,2024-05-20,Healthy sleep,Noticed that it improves my sleep for sure. Will buy it again. ,"{'neg': 0.0, 'neu': 0.662, 'pos': 0.338, 'compound': 0.6249}",0.6249,pos
+3,72473,2024-08-17,Not good,"Not good for me, did nothing,  I feel more relaxed on other sleep helping products.","{'neg': 0.285, 'neu': 0.596, 'pos': 0.119, 'compound': -0.468}",-0.468,neg
+4,72473,2024-08-16,Not effective at all,"The ingredients are not effective, I didn’t feel sleep but stayed awake all the night. Try some else people ","{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.1967}",-0.1967,neg
+5,72473,2017-12-04,Works well,My son is blind and has a seizure disorder. He does not sleep easily. This combined with melatonin is the magic potion. Works great!,"{'neg': 0.251, 'neu': 0.616, 'pos': 0.133, 'compound': -0.3875}",-0.3875,neg
+6,72473,2023-11-06,Good,"The quality is good, the ingredients are good, the age of the package is still in the beginning. May God benefit from it. I noticed an improvement in sleep","{'neg': 0.0, 'neu': 0.623, 'pos': 0.377, 'compound': 0.9169}",0.9169,pos
+7,72473,2024-10-09,Not yet taken,"I haven't taken it yet, but it seems to be effective!! I have a hard time falling asleep and when I wake up, it's hard to fall back asleep.","{'neg': 0.184, 'neu': 0.681, 'pos': 0.135, 'compound': 0.3887}",0.3887,pos
+8,72473,2024-05-16,It works for me,"I've been taking Depas for a long time, so I wanted to switch to something natural. It's not super strong, but it makes me sleepy gently. I want to keep taking it.","{'neg': 0.112, 'neu': 0.683, 'pos': 0.205, 'compound': 0.5067}",0.5067,pos
+9,72473,2024-01-04,Great herbal sleep and sedative,"I slept really well after the 3 capsules. Because of their comfortable size, they are easy to swallow and have no side effects. Great product.","{'neg': 0.067, 'neu': 0.547, 'pos': 0.386, 'compound': 0.8883}",0.8883,pos
+10,72473,2024-07-29,,"It doesn't seem to be of much help to me, and the amount doesn't seem to be enough. Even if I take 3 pills, I will feel like my eyes are tightening, but I will wake up after 3 or 4 hours.","{'neg': 0.0, 'neu': 0.904, 'pos': 0.096, 'compound': 0.3818}",0.3818,pos
+11,72473,2024-06-24,medium,"The size is good and the price is good, but I have not tried it personally, so I have no knowledge of its effectiveness and benefit ","{'neg': 0.103, 'neu': 0.643, 'pos': 0.254, 'compound': 0.5694}",0.5694,pos
+12,72473,2024-10-09,"Pills for a deep, restful sleep",I bought it based on the safe ingredients written on it and God willing it is worth buying again.,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.7096}",0.7096,pos
+13,72473,2024-10-04,great,"The price is cheap and the size is just right, so it's worth eating.","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.2911}",0.2911,pos
+14,72473,2024-08-22,Wonderful ,"Excellent biological supplement, prescribed by the doctor in combination with other drugs","{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.5719}",0.5719,pos
+15,72473,2024-05-19,,Quality is super good. Ingredients are also good. Size is normal. Taste is neutral. Antioxidant. I am very satisfied with this brand. ,"{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.9152}",0.9152,pos
+16,72473,2024-05-06,,"relaxes muscles, activates over 300 key metabolic enzymes, promotes healthy mineral levels in bones and teeth, and regulates electrical activity in nerve cells.","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.765}",0.765,pos
+17,72473,2024-04-18,,"High quality, clean ingredients, suitable size, easy to use, good for sleeping","{'neg': 0.0, 'neu': 0.514, 'pos': 0.486, 'compound': 0.8176}",0.8176,pos
+18,72473,2024-04-03,fine,It feels a little useful and the taste is acceptable,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6003}",0.6003,pos
+19,72473,2024-03-28,I bought this because I can't sleep.,I haven't been able to sleep lately so I bought this to help me get a good night's sleep!,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.7088}",0.7088,pos
+20,72473,2024-03-19,,"Trusted brand. An excellent drug. Expiration date is ok. Application was not difficult
 ","{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.8782}",0.8782,pos
-21,21,72473,2024-01-07,Helps you calm down and fall asleep,"Helps you calm down and fall asleep. Excellent product, good composition. Apparently it works.","{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.8885}",0.8885,pos
-22,22,72473,2023-12-27,,I took it for my son because he gets overexcited before bed. I really liked the composition,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.4754}",0.4754,pos
-23,23,72473,2023-11-13,Great,Natural ingredients of excellent quality for healthy sleep. Convenient packaging and capsule size for daily use,"{'neg': 0.0, 'neu': 0.594, 'pos': 0.406, 'compound': 0.836}",0.836,pos
-24,24,72473,2023-10-31,,A very excellent vitamin that helps with sleep and works to relax the nerves,"{'neg': 0.066, 'neu': 0.374, 'pos': 0.56, 'compound': 0.8903}",0.8903,pos
-25,25,72473,2024-08-22,,"This brand is designed for children with autism, it should be good","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}",0.4404,pos
-26,26,72473,2024-01-24,try,Family members need to buy it for their family to eat and it will be effective before repurchasing!,"{'neg': 0.0, 'neu': 0.834, 'pos': 0.166, 'compound': 0.5255}",0.5255,pos
-27,27,72473,2024-01-24,It helps.,I had a hard time sleeping and this helped.,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",-0.1027,neg
-28,28,72473,2023-10-19,Great brand,"Excellent quality ingredients, composition and form. Helps you fall asleep. I recommend it to those who have trouble sleeping","{'neg': 0.106, 'neu': 0.549, 'pos': 0.345, 'compound': 0.7269}",0.7269,pos
-29,29,72473,2024-06-05,,"
+21,72473,2024-01-07,Helps you calm down and fall asleep,"Helps you calm down and fall asleep. Excellent product, good composition. Apparently it works.","{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.8885}",0.8885,pos
+22,72473,2023-12-27,,I took it for my son because he gets overexcited before bed. I really liked the composition,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.4754}",0.4754,pos
+23,72473,2023-11-13,Great,Natural ingredients of excellent quality for healthy sleep. Convenient packaging and capsule size for daily use,"{'neg': 0.0, 'neu': 0.594, 'pos': 0.406, 'compound': 0.836}",0.836,pos
+24,72473,2023-10-31,,A very excellent vitamin that helps with sleep and works to relax the nerves,"{'neg': 0.066, 'neu': 0.374, 'pos': 0.56, 'compound': 0.8903}",0.8903,pos
+25,72473,2024-08-22,,"This brand is designed for children with autism, it should be good","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}",0.4404,pos
+26,72473,2024-01-24,try,Family members need to buy it for their family to eat and it will be effective before repurchasing!,"{'neg': 0.0, 'neu': 0.834, 'pos': 0.166, 'compound': 0.5255}",0.5255,pos
+27,72473,2024-01-24,It helps.,I had a hard time sleeping and this helped.,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",-0.1027,neg
+28,72473,2023-10-19,Great brand,"Excellent quality ingredients, composition and form. Helps you fall asleep. I recommend it to those who have trouble sleeping","{'neg': 0.106, 'neu': 0.549, 'pos': 0.345, 'compound': 0.7269}",0.7269,pos
+29,72473,2024-06-05,,"
 The product is intended for adults and children over 4 years old. Before use by children under 4 years of age, consult a physician.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-30,30,72473,2023-10-20,For sleeping,It's hard to tell when I've fallen asleep after eating these. But the sleep has been quality and good.,"{'neg': 0.129, 'neu': 0.702, 'pos': 0.169, 'compound': 0.4404}",0.4404,pos
-31,31,72473,2021-01-25,Excellent!,Soothes and relaxes before bed.,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,pos
-32,32,72473,2021-01-26,,Effective.,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4767}",0.4767,pos
+30,72473,2023-10-20,For sleeping,It's hard to tell when I've fallen asleep after eating these. But the sleep has been quality and good.,"{'neg': 0.129, 'neu': 0.702, 'pos': 0.169, 'compound': 0.4404}",0.4404,pos
+31,72473,2021-01-25,Excellent!,Soothes and relaxes before bed.,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,pos
+32,72473,2021-01-26,,Effective.,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4767}",0.4767,pos

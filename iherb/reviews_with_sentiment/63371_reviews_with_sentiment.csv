@@ -1,7 +1,7 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,63371,2023-09-15,很好！,"Tasty.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,63371,2023-09-15,很好！,"Tasty.
 I love the elderflower products of this brand.
 Good to health","{'neg': 0.0, 'neu': 0.559, 'pos': 0.441, 'compound': 0.7964}",0.7964,pos
-1,1,63371,2024-03-28,very good,"The quality is good, the ingredients are natural, the packaging is good, it has many benefits, is good for your health, can improve sleep, and the taste is okay.","{'neg': 0.0, 'neu': 0.542, 'pos': 0.458, 'compound': 0.9485}",0.9485,pos
-2,2,63371,2024-07-08,,"Excellent, high quality. I will buy it next time and order it again. Hello, how are you? ","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.5719}",0.5719,pos
-3,3,63371,2016-09-10,To buy melatonin legally,I can not help but buy this product. Melatonin is good enough for sleeping. It is good to eat when you feel uneasy.,"{'neg': 0.164, 'neu': 0.586, 'pos': 0.251, 'compound': 0.5677}",0.5677,pos
+1,63371,2024-03-28,very good,"The quality is good, the ingredients are natural, the packaging is good, it has many benefits, is good for your health, can improve sleep, and the taste is okay.","{'neg': 0.0, 'neu': 0.542, 'pos': 0.458, 'compound': 0.9485}",0.9485,pos
+2,63371,2024-07-08,,"Excellent, high quality. I will buy it next time and order it again. Hello, how are you? ","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.5719}",0.5719,pos
+3,63371,2016-09-10,To buy melatonin legally,I can not help but buy this product. Melatonin is good enough for sleeping. It is good to eat when you feel uneasy.,"{'neg': 0.164, 'neu': 0.586, 'pos': 0.251, 'compound': 0.5677}",0.5677,pos

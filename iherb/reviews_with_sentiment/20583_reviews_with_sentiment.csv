@@ -1,11 +1,11 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,20583,2024-09-01,,"It works great. The effect was felt from the first tablet. Plus, it also brings calcium and magnesium.","{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.6249}",0.6249,pos
-1,1,20583,2024-08-04,Price,"Love the price of this medicine , i did not find it anywhere cheaper than i herb","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}",0.6369,pos
-2,2,20583,2024-05-02,Calming me,"These work great, they kick in pretty fast.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,20583,2024-09-01,,"It works great. The effect was felt from the first tablet. Plus, it also brings calcium and magnesium.","{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.6249}",0.6249,pos
+1,20583,2024-08-04,Price,"Love the price of this medicine , i did not find it anywhere cheaper than i herb","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}",0.6369,pos
+2,20583,2024-05-02,Calming me,"These work great, they kick in pretty fast.
 Long lasting nervous system support","{'neg': 0.1, 'neu': 0.427, 'pos': 0.474, 'compound': 0.836}",0.836,pos
-3,3,20583,2011-10-25,Awesome,"I LOVE this product. It relaxes muscles and helps to ""turn off"" racing thoughts at night.","{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.876}",0.876,pos
-4,4,20583,2012-12-23,FANTASTIC Muscle Relaxation Product! ,This item has been discontinued but Iherb has many similar items that are just as good .,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.5927}",0.5927,pos
-5,5,20583,2011-09-30,Metagenics,"Great Products, I will continue to always re-order as needed. Thank you.","{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.765}",0.765,pos
-6,6,20583,2011-03-31,very good,"I pulled my back out a while ago, and this really has helped my recuperation.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-7,7,20583,2024-07-18,I really liked it,"The condition has leveled out, it’s delicate, there is no drowsiness, I’m happy with the purchase. Effective from the first day, but I hope for a cumulative effect","{'neg': 0.05, 'neu': 0.657, 'pos': 0.293, 'compound': 0.775}",0.775,pos
-8,8,20583,2024-09-24,Under trial,It is currently under trial after use and after the box is finished I will put my evaluation if possible. Good packaging and good storage.,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.7003}",0.7003,pos
+3,20583,2011-10-25,Awesome,"I LOVE this product. It relaxes muscles and helps to ""turn off"" racing thoughts at night.","{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.876}",0.876,pos
+4,20583,2012-12-23,FANTASTIC Muscle Relaxation Product! ,This item has been discontinued but Iherb has many similar items that are just as good .,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.5927}",0.5927,pos
+5,20583,2011-09-30,Metagenics,"Great Products, I will continue to always re-order as needed. Thank you.","{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.765}",0.765,pos
+6,20583,2011-03-31,very good,"I pulled my back out a while ago, and this really has helped my recuperation.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
+7,20583,2024-07-18,I really liked it,"The condition has leveled out, it’s delicate, there is no drowsiness, I’m happy with the purchase. Effective from the first day, but I hope for a cumulative effect","{'neg': 0.05, 'neu': 0.657, 'pos': 0.293, 'compound': 0.775}",0.775,pos
+8,20583,2024-09-24,Under trial,It is currently under trial after use and after the box is finished I will put my evaluation if possible. Good packaging and good storage.,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.7003}",0.7003,pos
