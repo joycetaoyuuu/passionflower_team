@@ -1,6 +1,6 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,126441,2023-11-22,Slight changes,"I have noticed slight changes in my son's sleep and behaviour, or it's just placebo for me as a mom. No allergies, but my son didn't like the taste at all.","{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.5048}",-0.5048,neg
-1,1,126441,2024-06-24,good,good quality i can’t say perfect. the size is good. use for children. great packaging ,"{'neg': 0.0, 'neu': 0.424, 'pos': 0.576, 'compound': 0.9274}",0.9274,pos
-2,2,126441,2023-10-13,Organic glycerite,"No alcohol
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,126441,2023-11-22,Slight changes,"I have noticed slight changes in my son's sleep and behaviour, or it's just placebo for me as a mom. No allergies, but my son didn't like the taste at all.","{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.5048}",-0.5048,neg
+1,126441,2024-06-24,good,good quality i can’t say perfect. the size is good. use for children. great packaging ,"{'neg': 0.0, 'neu': 0.424, 'pos': 0.576, 'compound': 0.9274}",0.9274,pos
+2,126441,2023-10-13,Organic glycerite,"No alcohol
 Sweet taste because glycerin is a type of sugar molecule","{'neg': 0.155, 'neu': 0.634, 'pos': 0.211, 'compound': 0.2023}",0.2023,pos
-3,3,126441,2024-04-25,good,"Excellent ingredients, a nutritional supplement that I only use on special occasions if my stomach is tired ","{'neg': 0.136, 'neu': 0.563, 'pos': 0.3, 'compound': 0.5423}",0.5423,pos
+3,126441,2024-04-25,good,"Excellent ingredients, a nutritional supplement that I only use on special occasions if my stomach is tired ","{'neg': 0.136, 'neu': 0.563, 'pos': 0.3, 'compound': 0.5423}",0.5423,pos

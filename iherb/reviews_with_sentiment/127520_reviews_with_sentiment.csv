@@ -1,6 +1,6 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,127520,2024-08-07,,"As a poor sleeper, these have helped some.  They have a funky taste but it goes away after you swallow them.  I don’t think they’re the best tablets, but if you’re looking for a more natural pill, these are good.","{'neg': 0.068, 'neu': 0.651, 'pos': 0.28, 'compound': 0.92}",0.92,pos
-1,1,127520,2024-06-01,Good for Sleep,I was looking for a product with GABA in it. Found this. Great to take before bed time. Helps the body relax and get restful sleep. Lots of other good vitamins and minerals in here. Good product. ,"{'neg': 0.0, 'neu': 0.608, 'pos': 0.392, 'compound': 0.9564}",0.9564,pos
-2,2,127520,2024-02-26,Seems to work,This mineral combo seems to work for a good night's sleep,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,pos
-3,3,127520,2023-11-22,My favorite brand,This pill has a slightly salty taste like sea water. I sleep very well. 🩷,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.5617}",0.5617,pos
-4,4,127520,2024-08-21,,"the quality is great, no taste. the health benefits are immediately felt. we really like this product, I recommend it","{'neg': 0.078, 'neu': 0.497, 'pos': 0.425, 'compound': 0.8687}",0.8687,pos
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,127520,2024-08-07,,"As a poor sleeper, these have helped some.  They have a funky taste but it goes away after you swallow them.  I don’t think they’re the best tablets, but if you’re looking for a more natural pill, these are good.","{'neg': 0.068, 'neu': 0.651, 'pos': 0.28, 'compound': 0.92}",0.92,pos
+1,127520,2024-06-01,Good for Sleep,I was looking for a product with GABA in it. Found this. Great to take before bed time. Helps the body relax and get restful sleep. Lots of other good vitamins and minerals in here. Good product. ,"{'neg': 0.0, 'neu': 0.608, 'pos': 0.392, 'compound': 0.9564}",0.9564,pos
+2,127520,2024-02-26,Seems to work,This mineral combo seems to work for a good night's sleep,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,pos
+3,127520,2023-11-22,My favorite brand,This pill has a slightly salty taste like sea water. I sleep very well. 🩷,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.5617}",0.5617,pos
+4,127520,2024-08-21,,"the quality is great, no taste. the health benefits are immediately felt. we really like this product, I recommend it","{'neg': 0.078, 'neu': 0.497, 'pos': 0.425, 'compound': 0.8687}",0.8687,pos

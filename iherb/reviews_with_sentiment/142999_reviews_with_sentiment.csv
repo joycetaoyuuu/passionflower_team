@@ -1,14 +1,14 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,142999,2024-07-21,Vegan Friendly + Nice & handy All in One Mix for convenience,"✒This one has passion flower, lemon balm, valerian , chamomile etc plus other stuff.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,142999,2024-07-21,Vegan Friendly + Nice & handy All in One Mix for convenience,"✒This one has passion flower, lemon balm, valerian , chamomile etc plus other stuff.
 ✒15 Drops was good for me.
 ✒ To save money I used order each ingredient separately to make my own custom mix but this one is more suitable for the ones who want to save time.
 ✒As of JN,24 it came in glass bottle","{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.8689}",0.8689,pos
-1,1,142999,2024-07-20,,"Good quality product.
+1,142999,2024-07-20,,"Good quality product.
 Packed with care, fast and safe delivery by iHerb and its associates.","{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.8402}",0.8402,pos
-2,2,142999,2024-09-26,I can sleep.,"I've tried GABA and melotonin but nothing worked, but this helps me fall asleep naturally. I'm buying it again.","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.6124}",0.6124,pos
-3,3,142999,2024-08-27,Deep,"quality and strength of ingredients, good supply and dosage size, benefits for improving sleep, tart pleasant taste.","{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.93}",0.93,pos
-4,4,142999,2024-07-21,,"very good drug, I really recommend it to everyone, very active for health and the taste is really rich","{'neg': 0.0, 'neu': 0.521, 'pos': 0.479, 'compound': 0.9165}",0.9165,pos
-5,5,142999,2024-09-13,seems correct,"good quality natural ingredients correct size good taste no effect yet too early to judge benefit pleasant taste 
+2,142999,2024-09-26,I can sleep.,"I've tried GABA and melotonin but nothing worked, but this helps me fall asleep naturally. I'm buying it again.","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.6124}",0.6124,pos
+3,142999,2024-08-27,Deep,"quality and strength of ingredients, good supply and dosage size, benefits for improving sleep, tart pleasant taste.","{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.93}",0.93,pos
+4,142999,2024-07-21,,"very good drug, I really recommend it to everyone, very active for health and the taste is really rich","{'neg': 0.0, 'neu': 0.521, 'pos': 0.479, 'compound': 0.9165}",0.9165,pos
+5,142999,2024-09-13,seems correct,"good quality natural ingredients correct size good taste no effect yet too early to judge benefit pleasant taste 
 ","{'neg': 0.076, 'neu': 0.417, 'pos': 0.507, 'compound': 0.9081}",0.9081,pos
-6,6,142999,2024-08-04,,"Effective natural sleep aid, medium size, pleasant scent, high quality, effective 
+6,142999,2024-08-04,,"Effective natural sleep aid, medium size, pleasant scent, high quality, effective 
 ","{'neg': 0.0, 'neu': 0.368, 'pos': 0.632, 'compound': 0.9001}",0.9001,pos

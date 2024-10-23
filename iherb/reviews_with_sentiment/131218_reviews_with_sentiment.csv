@@ -1,17 +1,17 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,131218,2024-10-19,noticed a difference for my lo,my baby is very sensitive to her teeth coming in and cries a lot and I noticed whenever I give her these gels she is less fussy,"{'neg': 0.105, 'neu': 0.895, 'pos': 0.0, 'compound': -0.4019}",-0.4019,neg
-1,1,131218,2024-10-10,,"good quality, organic ingredients, easy to use , good taste and safe to swallow, ","{'neg': 0.0, 'neu': 0.437, 'pos': 0.563, 'compound': 0.891}",0.891,pos
-2,2,131218,2024-10-05,,This is a great product. I have found a lot of possitive reviews in a mom's group on facebook.,"{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6249}",0.6249,pos
-3,3,131218,2024-04-03,Great ,Easy application easy to use good ingredients and good quality ,"{'neg': 0.0, 'neu': 0.341, 'pos': 0.659, 'compound': 0.891}",0.891,pos
-4,4,131218,2024-10-13,Normal gels,"Do not make miracles, just normal gel like many other gels","{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",0.3612,pos
-5,5,131218,2024-06-29,,"Excellent product and value for money, I will order more! And I will also recommend it to my family and friends! Very fast delivery! Highly recommend! It contains only natural ingredients, I am very pleased!","{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.9641}",0.9641,pos
-6,6,131218,2024-04-03,I recommend,"Quality goods. I really like the effect of using it. Fully corresponds to the description and my expectations. Also at a great price! I love it. I will continue to take it!
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,131218,2024-10-19,noticed a difference for my lo,my baby is very sensitive to her teeth coming in and cries a lot and I noticed whenever I give her these gels she is less fussy,"{'neg': 0.105, 'neu': 0.895, 'pos': 0.0, 'compound': -0.4019}",-0.4019,neg
+1,131218,2024-10-10,,"good quality, organic ingredients, easy to use , good taste and safe to swallow, ","{'neg': 0.0, 'neu': 0.437, 'pos': 0.563, 'compound': 0.891}",0.891,pos
+2,131218,2024-10-05,,This is a great product. I have found a lot of possitive reviews in a mom's group on facebook.,"{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6249}",0.6249,pos
+3,131218,2024-04-03,Great ,Easy application easy to use good ingredients and good quality ,"{'neg': 0.0, 'neu': 0.341, 'pos': 0.659, 'compound': 0.891}",0.891,pos
+4,131218,2024-10-13,Normal gels,"Do not make miracles, just normal gel like many other gels","{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",0.3612,pos
+5,131218,2024-06-29,,"Excellent product and value for money, I will order more! And I will also recommend it to my family and friends! Very fast delivery! Highly recommend! It contains only natural ingredients, I am very pleased!","{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.9641}",0.9641,pos
+6,131218,2024-04-03,I recommend,"Quality goods. I really like the effect of using it. Fully corresponds to the description and my expectations. Also at a great price! I love it. I will continue to take it!
 ","{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.9132}",0.9132,pos
-7,7,131218,2024-03-18,amazing,"For teething babies Contains no benzocaine, dye or added sugar USDA Organic 1 Day 1 Night Safe & Gentle Organic Ingredients Baby Approves Taste
+7,131218,2024-03-18,amazing,"For teething babies Contains no benzocaine, dye or added sugar USDA Organic 1 Day 1 Night Safe & Gentle Organic Ingredients Baby Approves Taste
 ","{'neg': 0.079, 'neu': 0.614, 'pos': 0.307, 'compound': 0.743}",0.743,pos
-8,8,131218,2024-08-30,,good brand and good composition. no specific taste or smell. I recommend ,"{'neg': 0.126, 'neu': 0.4, 'pos': 0.474, 'compound': 0.7269}",0.7269,pos
-9,9,131218,2024-08-21,,"😍😍😍😍😍Excellent, excellent and very useful. I recommend it 😍😍😍😍😍😍😍Excellent, excellent and very useful. I recommend it 😍😍😍😍😍😍😍😍😍","{'neg': 0.0, 'neu': 0.318, 'pos': 0.682, 'compound': 0.9604}",0.9604,pos
-10,10,131218,2024-07-10,,Made with certified soothing organic botanicals and an organic flavor kids love.,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.7579}",0.7579,pos
-11,11,131218,2024-06-20,Great,Soothing for children for teeth for day and night time,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}",0.3182,pos
-12,12,131218,2023-12-25,Please come back for evaluation,"Please evaluate honestly in terms of quality, ingredients, age, package size, benefit, effect, scent, and use","{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.8074}",0.8074,pos
-13,13,131218,2024-09-27,,The ingredients and quality are reassuring to use.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.4019,pos
+8,131218,2024-08-30,,good brand and good composition. no specific taste or smell. I recommend ,"{'neg': 0.126, 'neu': 0.4, 'pos': 0.474, 'compound': 0.7269}",0.7269,pos
+9,131218,2024-08-21,,"😍😍😍😍😍Excellent, excellent and very useful. I recommend it 😍😍😍😍😍😍😍Excellent, excellent and very useful. I recommend it 😍😍😍😍😍😍😍😍😍","{'neg': 0.0, 'neu': 0.318, 'pos': 0.682, 'compound': 0.9604}",0.9604,pos
+10,131218,2024-07-10,,Made with certified soothing organic botanicals and an organic flavor kids love.,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.7579}",0.7579,pos
+11,131218,2024-06-20,Great,Soothing for children for teeth for day and night time,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}",0.3182,pos
+12,131218,2023-12-25,Please come back for evaluation,"Please evaluate honestly in terms of quality, ingredients, age, package size, benefit, effect, scent, and use","{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.8074}",0.8074,pos
+13,131218,2024-09-27,,The ingredients and quality are reassuring to use.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.4019,pos

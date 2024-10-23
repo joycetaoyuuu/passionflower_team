@@ -1,19 +1,19 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,142214,2024-01-21,,"I bought it for my maltese puppy who dealing with angry issues, in the days i gave him the chew, i think he was more calm. the size of the chew is a bit big, so i gave him only half of the chew. great quality and ingredients. ","{'neg': 0.066, 'neu': 0.8, 'pos': 0.134, 'compound': 0.5256}",0.5256,pos
-1,1,142214,2024-03-12,"Nice as a treat, but it didn't do much","I tried giving these to my pup, who had trouble with the neighbor's dog barking all night long. They were great as a treat, but I didn't see any change after using them for a while. ","{'neg': 0.051, 'neu': 0.779, 'pos': 0.17, 'compound': 0.5023}",0.5023,pos
-2,2,142214,2024-07-19,Doesn't work but good treat option ,"My anxious dog stays anxious. This treat is a nice option for a healthy treat, not much more ","{'neg': 0.161, 'neu': 0.402, 'pos': 0.438, 'compound': 0.7845}",0.7845,pos
-3,3,142214,2024-07-13,,Did not really see a calming or relaxing effect on my dog.,"{'neg': 0.168, 'neu': 0.614, 'pos': 0.218, 'compound': 0.1867}",0.1867,pos
-4,4,142214,2022-04-27,,"my dog wont eat them so I have to put it in her food, she is a bit calmer but not tired after I give her one.
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,142214,2024-01-21,,"I bought it for my maltese puppy who dealing with angry issues, in the days i gave him the chew, i think he was more calm. the size of the chew is a bit big, so i gave him only half of the chew. great quality and ingredients. ","{'neg': 0.066, 'neu': 0.8, 'pos': 0.134, 'compound': 0.5256}",0.5256,pos
+1,142214,2024-03-12,"Nice as a treat, but it didn't do much","I tried giving these to my pup, who had trouble with the neighbor's dog barking all night long. They were great as a treat, but I didn't see any change after using them for a while. ","{'neg': 0.051, 'neu': 0.779, 'pos': 0.17, 'compound': 0.5023}",0.5023,pos
+2,142214,2024-07-19,Doesn't work but good treat option ,"My anxious dog stays anxious. This treat is a nice option for a healthy treat, not much more ","{'neg': 0.161, 'neu': 0.402, 'pos': 0.438, 'compound': 0.7845}",0.7845,pos
+3,142214,2024-07-13,,Did not really see a calming or relaxing effect on my dog.,"{'neg': 0.168, 'neu': 0.614, 'pos': 0.218, 'compound': 0.1867}",0.1867,pos
+4,142214,2022-04-27,,"my dog wont eat them so I have to put it in her food, she is a bit calmer but not tired after I give her one.
 ","{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.5939}",0.5939,pos
-5,5,142214,2022-05-17,,Works better than I thought! Really calmed my dogs and I was so happy to find out this product works ,"{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.8963}",0.8963,pos
-6,6,142214,2022-02-17,,"My dog loves it, and it seems to really help, especially with anxiety when someone is near our door","{'neg': 0.08, 'neu': 0.649, 'pos': 0.271, 'compound': 0.6922}",0.6922,pos
-7,7,142214,2021-12-21,Great!,"I have a small Yorkshire, he is very anxious during thunder storms, and this product calms him down!!!","{'neg': 0.118, 'neu': 0.719, 'pos': 0.163, 'compound': 0.2223}",0.2223,pos
-8,8,142214,2022-03-10,ممتاز!,My dog became much more relaxed and calmer 😃,"{'neg': 0.0, 'neu': 0.49, 'pos': 0.51, 'compound': 0.7397}",0.7397,pos
-9,9,142214,2021-06-24,dogs loved it very much," I would recommend it.  I have a great dane and a golden retriever.
+5,142214,2022-05-17,,Works better than I thought! Really calmed my dogs and I was so happy to find out this product works ,"{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.8963}",0.8963,pos
+6,142214,2022-02-17,,"My dog loves it, and it seems to really help, especially with anxiety when someone is near our door","{'neg': 0.08, 'neu': 0.649, 'pos': 0.271, 'compound': 0.6922}",0.6922,pos
+7,142214,2021-12-21,Great!,"I have a small Yorkshire, he is very anxious during thunder storms, and this product calms him down!!!","{'neg': 0.118, 'neu': 0.719, 'pos': 0.163, 'compound': 0.2223}",0.2223,pos
+8,142214,2022-03-10,ممتاز!,My dog became much more relaxed and calmer 😃,"{'neg': 0.0, 'neu': 0.49, 'pos': 0.51, 'compound': 0.7397}",0.7397,pos
+9,142214,2021-06-24,dogs loved it very much," I would recommend it.  I have a great dane and a golden retriever.
 both of them luv it> ","{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}",0.765,pos
-10,10,142214,2022-07-29,,I did not notice any difference in my dog after giving him these chews. I would not purchase again.,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.34}",0.34,pos
-11,11,142214,2022-02-10,,my dog loves it,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,pos
-12,12,142214,2021-08-21,,Need a higher dose than recommended. It works,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.2023}",0.2023,pos
-13,13,142214,2024-06-13,Top quality,An excellent product that meets all my expectations. I will gladly recommend him to others,"{'neg': 0.0, 'neu': 0.561, 'pos': 0.439, 'compound': 0.8225}",0.8225,pos
-14,14,142214,2024-05-21,,A good supplement for relaxation. Good relieves unnecessary anxiety on the road. ,"{'neg': 0.088, 'neu': 0.309, 'pos': 0.603, 'compound': 0.875}",0.875,pos
-15,15,142214,2022-08-05,,"Excellent and very effective product. I also wanted to note the very fast delivery, I recommend to everyone to buy","{'neg': 0.0, 'neu': 0.603, 'pos': 0.397, 'compound': 0.8707}",0.8707,pos
+10,142214,2022-07-29,,I did not notice any difference in my dog after giving him these chews. I would not purchase again.,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.34}",0.34,pos
+11,142214,2022-02-10,,my dog loves it,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,pos
+12,142214,2021-08-21,,Need a higher dose than recommended. It works,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.2023}",0.2023,pos
+13,142214,2024-06-13,Top quality,An excellent product that meets all my expectations. I will gladly recommend him to others,"{'neg': 0.0, 'neu': 0.561, 'pos': 0.439, 'compound': 0.8225}",0.8225,pos
+14,142214,2024-05-21,,A good supplement for relaxation. Good relieves unnecessary anxiety on the road. ,"{'neg': 0.088, 'neu': 0.309, 'pos': 0.603, 'compound': 0.875}",0.875,pos
+15,142214,2022-08-05,,"Excellent and very effective product. I also wanted to note the very fast delivery, I recommend to everyone to buy","{'neg': 0.0, 'neu': 0.603, 'pos': 0.397, 'compound': 0.8707}",0.8707,pos

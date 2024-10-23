@@ -1,4 +1,4 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,129640,2024-09-17,helps!,was taking another product which was discontinued and a friend found this thankfully. helps me with my mood and feeling better.,"{'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.9001}",0.9001,pos
-1,1,129640,2024-05-08,,I just recently started taking this drug. I take two tablets in the morning and evening. Very good ingredients and composition. I hope it helps with my problem ,"{'neg': 0.083, 'neu': 0.648, 'pos': 0.268, 'compound': 0.7178}",0.7178,pos
-2,2,129640,2024-04-08,vitamins plus herbs,there are brands that you can trust with your health. it is a complex of vitamins combined with herbs for women,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.5106}",0.5106,pos
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,129640,2024-09-17,helps!,was taking another product which was discontinued and a friend found this thankfully. helps me with my mood and feeling better.,"{'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.9001}",0.9001,pos
+1,129640,2024-05-08,,I just recently started taking this drug. I take two tablets in the morning and evening. Very good ingredients and composition. I hope it helps with my problem ,"{'neg': 0.083, 'neu': 0.648, 'pos': 0.268, 'compound': 0.7178}",0.7178,pos
+2,129640,2024-04-08,vitamins plus herbs,there are brands that you can trust with your health. it is a complex of vitamins combined with herbs for women,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.5106}",0.5106,pos

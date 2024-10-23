@@ -1,9 +1,9 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,135702,2024-09-17,Yummy for Dogs,"A great option for dog owners looking for a natural, easy-to-administer solution to help calm their pets. Its ingredients are simple, natural, and generally well-tolerated, making it a safe option for most dogs. ","{'neg': 0.0, 'neu': 0.544, 'pos': 0.456, 'compound': 0.9538}",0.9538,pos
-1,1,135702,2024-07-30,,"My dogs love this peanut butter and we it to them anytime we leave. 
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,135702,2024-09-17,Yummy for Dogs,"A great option for dog owners looking for a natural, easy-to-administer solution to help calm their pets. Its ingredients are simple, natural, and generally well-tolerated, making it a safe option for most dogs. ","{'neg': 0.0, 'neu': 0.544, 'pos': 0.456, 'compound': 0.9538}",0.9538,pos
+1,135702,2024-07-30,,"My dogs love this peanut butter and we it to them anytime we leave. 
 Shipment was accurate and pretty timely. ","{'neg': 0.047, 'neu': 0.664, 'pos': 0.289, 'compound': 0.802}",0.802,pos
-2,2,135702,2024-07-08,peanut butter,"very good quality, my dog didnt have any allergies. satisfied good quality","{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.8476}",0.8476,pos
-3,3,135702,2024-04-17,,I put this on my dogs lick mat.. and he loves it - I don’t see any relaxing effects on my dog though. ,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.7845}",0.7845,pos
-4,4,135702,2024-01-20,on trial,"It has arrived for me so far and it is being tested for fetch. I hope it is useful and good, but the size is excellent and the quality looks good","{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.9294}",0.9294,pos
-5,5,135702,2024-02-24,Delicious,"We took unflavored peanut butter. Liked. We want to try with different additives, but I think the dog will like any))) ","{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.6486}",0.6486,pos
-6,6,135702,2024-10-18,Paparazzi love to eat.,"Authentic, tastes good. Worth buying. Very fragrant","{'neg': 0.0, 'neu': 0.51, 'pos': 0.49, 'compound': 0.5859}",0.5859,pos
+2,135702,2024-07-08,peanut butter,"very good quality, my dog didnt have any allergies. satisfied good quality","{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.8476}",0.8476,pos
+3,135702,2024-04-17,,I put this on my dogs lick mat.. and he loves it - I don’t see any relaxing effects on my dog though. ,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.7845}",0.7845,pos
+4,135702,2024-01-20,on trial,"It has arrived for me so far and it is being tested for fetch. I hope it is useful and good, but the size is excellent and the quality looks good","{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.9294}",0.9294,pos
+5,135702,2024-02-24,Delicious,"We took unflavored peanut butter. Liked. We want to try with different additives, but I think the dog will like any))) ","{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.6486}",0.6486,pos
+6,135702,2024-10-18,Paparazzi love to eat.,"Authentic, tastes good. Worth buying. Very fragrant","{'neg': 0.0, 'neu': 0.51, 'pos': 0.49, 'compound': 0.5859}",0.5859,pos

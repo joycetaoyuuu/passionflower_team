@@ -1,8 +1,8 @@
-,Unnamed: 0,product_id,date_posted,review_title,review_text,scores,compound,sentiment
-0,0,143225,2024-09-15,,"A blend of amino acids to help you relax and fall asleep more easily. The gummies are soft, easy to chew, and come in a pleasant flavor. M","{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.9259}",0.9259,pos
-1,1,143225,2024-08-07,,Taste is good and it help you with ur sleeping issues ,"{'neg': 0.0, 'neu': 0.616, 'pos': 0.384, 'compound': 0.6808}",0.6808,pos
-2,2,143225,2024-10-06,,"Works very well, pleasant taste, size is good, high quality 
+,product_id,date_posted,review_title,review_text,scores,compound,sentiment
+0,143225,2024-09-15,,"A blend of amino acids to help you relax and fall asleep more easily. The gummies are soft, easy to chew, and come in a pleasant flavor. M","{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.9259}",0.9259,pos
+1,143225,2024-08-07,,Taste is good and it help you with ur sleeping issues ,"{'neg': 0.0, 'neu': 0.616, 'pos': 0.384, 'compound': 0.6808}",0.6808,pos
+2,143225,2024-10-06,,"Works very well, pleasant taste, size is good, high quality 
 I noticed the price has increased since I bought it first!","{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.8824}",0.8824,pos
-3,3,143225,2024-09-18,millimeter,"
+3,143225,2024-09-18,millimeter,"
 Use Quality Size Age Package Formula Color Texture Concerns Smell","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neu
-4,4,143225,2024-07-30,Gomez,"The package size is average, a high quality product, the quantity is provided, and it is easy to use","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4404}",0.4404,pos
+4,143225,2024-07-30,Gomez,"The package size is average, a high quality product, the quantity is provided, and it is easy to use","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4404}",0.4404,pos
